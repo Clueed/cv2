@@ -1,0 +1,3 @@
+# Extra systemd-nspawn flags for this container (one per line, comments ignored).
+# Run `devenv rebuild <name>` after making changes.
+# Example: --bind=/mnt/stash-data:/mnt/stash-data
