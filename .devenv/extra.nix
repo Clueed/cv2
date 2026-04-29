@@ -5,6 +5,7 @@
   environment.systemPackages = with pkgs; [
     typst
     tinymist
+    gnumake
     uv
   ];
 
