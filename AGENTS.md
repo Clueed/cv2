@@ -1,6 +1,6 @@
 # CV / Resume
 
-A Typst resume with data imported from `data.typ`.
+A Typst resume with data imported from `data.typ`. Supplementary details (job highlights, additional interests, skills, etc.) for tailoring the CV are in `resume-context.md`.
 
 ## Build
 
