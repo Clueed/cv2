@@ -39,7 +39,7 @@
     dates: none,
     children: (
       (
-        dates: dates-helper(start-date: "Mar 2023", end-date: "Sep 2023"),
+        dates: dates-helper(start-date: "May 2023", end-date: "Sep 2023"),
         subtitle: "IT Project Management Working Student",
         bullets: (
           "Worked closely with the executive team on the implementation of a company-wide contract database",
@@ -47,7 +47,7 @@
         ),
       ),
       (
-        dates: dates-helper(start-date: "May 2023", end-date: "Sep 2023"),
+        dates: dates-helper(start-date: "Mar 2023", end-date: "Apr 2023"),
         subtitle: "Financial Operations & Controlling Internship",
         bullets: (
           "Collaborated with the head of finance on financial analysis and reporting for German GAAP-based annual financial statements",
