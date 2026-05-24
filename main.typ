@@ -1,4 +1,4 @@
-#import "data.typ": personal-info, work-experience, education, projects
+#import "data.typ": personal-info, work-experience, education, volunteering, projects
 
 #let resume(
   author: "",
@@ -106,6 +106,9 @@
 
 == Education
 #render-list(education, render-entry)
+
+== Volunteering
+#render-list(volunteering, render-entry)
 
 == Projects
 #render-list(projects, render-project-entry)

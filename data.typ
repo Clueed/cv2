@@ -23,46 +23,34 @@
   (
     title: "Stackgini",
     location: "Berlin, Germany",
-    description: "Enterprise IT decision making SaaS",
+    description: "B2B SaaS for agentic enterprise IT decision-making",
     dates: dates-helper(start-date: "Nov 2023", end-date: "Present"),
     subtitle: "Founding GTM Lead",
     bullets: (
-      "Built the company's entire GTM function from scratch as first hire: ICP definition, messaging, tech stack selection, process design, and reporting infrastructure, serving as the operational foundation for growth from USD 50K to 1M ARR (3x YoY)",
-      "Designed and scaled a full outbound program including ABM strategy; hired and ramped an SDR team to 150K in pipeline per SDR per month across complex, multi-stakeholder enterprise buying centers",
-      "Validated the GTM motion commercially with 20 closed enterprise accounts including DHL, Siemens Healthineers, and REWE at 30% win rate and 50K ACV",
+      "Drove 3x YoY growth from $50K to $1M+ ARR as first hire by building the GTM function from scratch: territory and account segmentation, industry-specific playbooks and value propositions, qualification criteria, stage definitions, quotas, variable comp plans, capacity/headcount models, and CRM/reporting infrastructure (HubSpot)",
+      "Hired and ramped the SDR team to 150K pipeline/rep/month; established productivity frameworks and sales process methodology; ran quarterly planning, forecast, and pipeline-review cadences with the CRO and CEO",
+      "Closed 25 enterprise accounts at 30% win rate, $50K ACV, 6-month avg. cycle in complex multi-stakeholder sales processes across financial services (National Bank of Liechtenstein), healthcare (Siemens Healthineers), retail (REWE), manufacturing/life sciences (Danaher, F500), and logistics (DHL)",
+      "Partnered with product and engineering to translate vertical-specific customer needs into roadmap; led the strategic pivot of customer success to a professional-services model, 0% logo churn over two years",
+      "Saved ~2 hrs/SDR/day through custom AI sales tooling (Python/TypeScript on the Anthropic API); built an ABM data layer with automated AI qualification scoring for account prioritization as the primary source of net-new pipeline",
+      "Sourced the company's first U.S. Fortune 500 customer by establishing the partner channel with SAP LeanIX, GBTEC, and Matrix42",
     ),
   ),
   (
     title: "Luther Law Firm",
     location: "Cologne, Germany",
-    description: "One of the largest law firms in the DACH region",
+    description: "One of the largest law firms in DACH",
     dates: none,
     children: (
       (
         dates: dates-helper(start-date: "May 2023", end-date: "Sep 2023"),
         subtitle: "IT Project Management Working Student",
-        bullets: (
-          "Worked closely with the executive team on the implementation of a company-wide contract database",
-          "Conducted extensive research and broke ground on the implementation of an Information Security Management System based on the ISO 27001 standard",
-        ),
+        bullets: (),
       ),
       (
         dates: dates-helper(start-date: "Mar 2023", end-date: "Apr 2023"),
         subtitle: "Financial Operations & Controlling Internship",
-        bullets: (
-          "Collaborated with the head of finance on financial analysis and reporting for German GAAP-based annual financial statements",
-          "Acquired comprehensive insights into the financial activities, encompassing both national operations and international subsidiaries, of a corporation with €200M in annual revenue",
-        ),
+        bullets: (),
       ),
-    ),
-  ),
-  (
-    title: "Freelance",
-    location: "Cologne, Germany",
-    dates: dates-helper(start-date: "May 2020", end-date: "Jul 2022"),
-    subtitle: "Merchandising",
-    bullets: (
-      "Subcontracting to realize marketing and sales campaigns of multinational corporations in a geographical region of Germany, by coordinating local partners to implement product launches, changes in offering, contractual changes, and reeducation campaigns",
     ),
   ),
 )
@@ -74,17 +62,7 @@
     dates: dates-helper(start-date: "Oct 2023", end-date: "Oct 2024"),
     subtitle: "Computer Science B.Sc.",
     bullets: (
-      "Completed core coursework in advanced mathematics and systems programming before pausing studies to join the founding team at Stackgini",
-      "Actively engaged in the startup incubator TU Berlin Center of Entrepreneurship (CoE)",
-    ),
-  ),
-  (
-    title: "James Cook University Singapore",
-    location: "Singapore",
-    dates: dates-helper(start-date: "Jul 2022", end-date: "Dec 2022"),
-    subtitle: "Semester Abroad",
-    bullets: (
-      "Took an advanced software engineering course and built a full-stack multiplayer web game in a SCRUM team, sparking a pivot into computer science",
+      "Completed core coursework in advanced mathematics and systems programming before pausing studies to join the founding team at Stackgini; active in TU Berlin Center of Entrepreneurship",
     ),
   ),
   (
@@ -93,7 +71,28 @@
     dates: dates-helper(start-date: "Oct 2020", end-date: "Aug 2023"),
     subtitle: "International Business B.A.",
     bullets: (
-      "GPA: 90% (1.5); Thesis: Are DAX companies using R&D capitalization under IFRS16 to manipulate earnings?",
+      "GPA: 90% (1.5); thesis on whether DAX companies use R&D capitalization under IFRS to manipulate reported earnings",
+    ),
+  ),
+  (
+    title: "James Cook University Singapore",
+    location: "Singapore",
+    dates: dates-helper(start-date: "Jul 2022", end-date: "Dec 2022"),
+    subtitle: "Semester Abroad",
+    bullets: (
+      "Built a full-stack multiplayer web game in a SCRUM team during an advanced software engineering course triggering a pivot into computer science",
+    ),
+  ),
+)
+
+#let volunteering = (
+  (
+    title: "Pestalozzi-Fröbel-Haus",
+    location: "Berlin, Germany",
+    dates: dates-helper(start-date: "2025", end-date: "2025"),
+    subtitle: "After-school Program Volunteer",
+    bullets: (
+      "Homework support and group supervision for primary-school children from migrant backgrounds in the after-school program",
     ),
   ),
 )
@@ -103,7 +102,7 @@
     name: "tendenz.vercel.app",
     dates: dates-helper(start-date: "2023", end-date: "2023"),
     bullets: (
-      "A financial market analysis tool using z-scores to rank and identify statistically significant price movements of US equities",
+      "Financial market analysis tool using z-scores to rank and identify statistically significant price movements of US equities; built and deployed independently, full-stack",
     ),
   ),
 )
