@@ -1,0 +1,254 @@
+{
+  "version": 1,
+  "vault_path": "/home/dev/cv2/wiki",
+  "last_ingest": "2026-05-24T11:00:00Z",
+  "projects": {
+    "cv2": {
+      "source_path": "~/.claude/projects/-home-dev-cv2",
+      "vault_path": "projects/cv2",
+      "last_ingested": "2026-05-24T10:30:00Z",
+      "conversations_ingested": 20,
+      "conversations_total": 20,
+      "memory_files_ingested": 1,
+      "desktop_sessions_ingested": 0,
+      "audit_logs_ingested": 0
+    }
+  },
+  "sources": {
+    "/home/dev/cv2/data.typ": {
+      "source_type": "data",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:35:00Z",
+      "size_bytes": 4699,
+      "modified_at": "2026-05-24T10:14:43Z",
+      "topic": "final Anthropic-tailored CV snapshot",
+      "pages_created": ["references/anthropic-final-resume-2026-05.md"],
+      "pages_updated": ["references/anthropic-gtm-strategy-ops-dach-jd.md"],
+      "note": "Captured before user reset the file"
+    },
+    "/home/dev/cv2/resume-context.md": {
+      "source_type": "data",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T11:00:00Z",
+      "size_bytes": 6543,
+      "modified_at": "2026-05-24T10:30:00Z",
+      "topic": "primary self-description / resume context",
+      "pages_created": [
+        "references/mark-prior-roles.md",
+        "references/mark-education.md",
+        "references/tendenz-project.md"
+      ],
+      "pages_updated": ["entities/mark-vavulov.md"],
+      "note": "Source file deleted after ingest at user's request; bulk of content was already distilled into earlier pages — these additions cover the pre-Stackgini gaps (Luther, education, tendenz)"
+    },
+    "~/.claude/projects/-home-dev-cv2/memory/feedback_stackgini_buying_centers.md": {
+      "source_type": "claude_memory",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 1036,
+      "modified_at": "2026-05-01T18:31:48Z",
+      "pages_created": ["entities/stackgini.md"],
+      "pages_updated": []
+    },
+    "~/.claude/projects/-home-dev-cv2/04e77ecc-9527-48f8-83e0-2860bf2832f6.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 82357,
+      "modified_at": "2026-05-24T10:02:00Z",
+      "topic": "commit workflow",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    "~/.claude/projects/-home-dev-cv2/05e767ef-6ad7-4fd8-806b-8dffcd42748a.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 119019,
+      "modified_at": "2026-05-24T10:05:23Z",
+      "topic": "skill symlink infra",
+      "pages_created": [],
+      "pages_updated": ["projects/cv2/cv2.md"]
+    },
+    "~/.claude/projects/-home-dev-cv2/06cb2783-3fb3-450a-9c7b-d3fab99abb63.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 109434,
+      "modified_at": "2026-05-01T17:43:58Z",
+      "topic": "stackgini section Q&A",
+      "pages_created": [],
+      "pages_updated": ["entities/stackgini.md"]
+    },
+    "~/.claude/projects/-home-dev-cv2/09c167dc-f8f2-4594-bcac-1bbd34572f14.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 143516,
+      "modified_at": "2026-05-01T18:38:51Z",
+      "topic": "anthropic gtm strategy ops tailoring",
+      "pages_created": ["references/anthropic-gtm-strategy-ops-dach-jd.md"],
+      "pages_updated": []
+    },
+    "~/.claude/projects/-home-dev-cv2/0b942d67-6675-4c9e-882d-31369283693f.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 2171451,
+      "modified_at": "2026-05-01T18:31:55Z",
+      "topic": "anthropic cv-customizer full tailoring",
+      "pages_created": [],
+      "pages_updated": ["references/anthropic-gtm-strategy-ops-dach-jd.md", "projects/cv2/skills/cv-tailoring-workflow.md"]
+    },
+    "~/.claude/projects/-home-dev-cv2/331bdac2-2986-4aa0-b27a-4dcc5812b164.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 1989,
+      "modified_at": "2026-05-01T18:10:52Z",
+      "topic": "trivial /clear",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    "~/.claude/projects/-home-dev-cv2/473b2cd6-1d2d-4c31-8577-0ddbc0bca9d5.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 2985,
+      "modified_at": "2026-05-24T10:02:19Z",
+      "topic": "trivial /clear",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    "~/.claude/projects/-home-dev-cv2/4b4ab3b2-0797-442e-ab22-00e9b4ed4031.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 1865,
+      "modified_at": "2026-05-11T20:24:14Z",
+      "topic": "trivial /clear",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    "~/.claude/projects/-home-dev-cv2/5c83a854-b8c5-4940-a634-89836436acaf.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 114116,
+      "modified_at": "2026-05-24T10:13:38Z",
+      "topic": "wiki vault setup",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    "~/.claude/projects/-home-dev-cv2/6ee208c9-ec7b-4ce0-a7ae-41874a040a41.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 135391,
+      "modified_at": "2026-05-01T17:33:15Z",
+      "topic": "stackgini hiring/strategy/tooling expansion",
+      "pages_created": ["skills/ai-powered-sales-tooling.md", "concepts/founding-gtm-engineer-thesis.md"],
+      "pages_updated": ["entities/stackgini.md"]
+    },
+    "~/.claude/projects/-home-dev-cv2/764a57c7-0c51-4e8c-be8f-0f26fdbd602b.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 214582,
+      "modified_at": "2026-05-01T18:43:06Z",
+      "topic": "anthropic gtm tailoring v2",
+      "pages_created": [],
+      "pages_updated": ["references/anthropic-gtm-strategy-ops-dach-jd.md"]
+    },
+    "~/.claude/projects/-home-dev-cv2/89bd2f06-0679-4572-a4c9-aa2d025a9424.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 93332,
+      "modified_at": "2026-05-01T18:07:35Z",
+      "topic": "stackgini section Q&A — 25 deals, CS/PS pivot",
+      "pages_created": [],
+      "pages_updated": ["entities/stackgini.md", "entities/mark-vavulov.md"]
+    },
+    "~/.claude/projects/-home-dev-cv2/a571083b-7bbd-4e0b-a520-09ae6df3069b.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 585023,
+      "modified_at": "2026-05-24T10:22:39Z",
+      "topic": "this conversation (claude-history-ingest)",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    "~/.claude/projects/-home-dev-cv2/b18c136b-77fd-4889-ae5c-b8169afaa604.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 934630,
+      "modified_at": "2026-05-11T20:19:00Z",
+      "topic": "volunteer bullet (Pestalozzi-Fröbel-Haus) + layout fixes (em dashes, GPA line)",
+      "pages_created": [],
+      "pages_updated": ["projects/cv2/skills/cv-bullet-style.md"]
+    },
+    "~/.claude/projects/-home-dev-cv2/b7ef9c84-a962-4caa-82d9-41b66d570d57.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 19265,
+      "modified_at": "2026-05-11T19:34:22Z",
+      "topic": "data.typ length check on Stackgini entry",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    "~/.claude/projects/-home-dev-cv2/b962d121-ec3d-4f91-9dd0-dd51227f5cae.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 109399,
+      "modified_at": "2026-05-11T20:04:01Z",
+      "topic": "data.typ frontload KPIs, double-drove fix",
+      "pages_created": [],
+      "pages_updated": ["projects/cv2/skills/cv-bullet-style.md"]
+    },
+    "~/.claude/projects/-home-dev-cv2/ca447f0c-4696-4c23-bf1b-7d016fe86c03.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 260640,
+      "modified_at": "2026-05-12T06:12:31Z",
+      "topic": "anthropic gtm tailoring May 12 pass",
+      "pages_created": [],
+      "pages_updated": ["references/anthropic-gtm-strategy-ops-dach-jd.md"]
+    },
+    "~/.claude/projects/-home-dev-cv2/ce37c404-d830-4345-952f-365504f30215.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 29720,
+      "modified_at": "2026-05-01T18:09:50Z",
+      "topic": "stackgini section Q&A — open-ended",
+      "pages_created": [],
+      "pages_updated": []
+    },
+    "~/.claude/projects/-home-dev-cv2/d08d78ec-f6b0-4e36-ada7-919fcfda0782.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 152793,
+      "modified_at": "2026-05-01T17:02:04Z",
+      "topic": "resume-context.md initial expansion + style directive",
+      "pages_created": ["projects/cv2/skills/cv-bullet-style.md"],
+      "pages_updated": ["entities/mark-vavulov.md"]
+    },
+    "~/.claude/projects/-home-dev-cv2/e50bfa99-ba26-488d-8d1f-0839bb871a9a.jsonl": {
+      "source_type": "claude_conversation",
+      "project": "cv2",
+      "ingested_at": "2026-05-24T10:30:00Z",
+      "size_bytes": 3429,
+      "modified_at": "2026-05-24T10:04:14Z",
+      "topic": "security-review (errored — ambiguous git ref)",
+      "pages_created": [],
+      "pages_updated": []
+    }
+  }
+}
