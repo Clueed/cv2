@@ -1,15 +1,15 @@
-# CV / Resume
+# cv2 workspace
 
-A Typst resume with data imported from `data.typ`. Supplementary details (job highlights, additional interests, skills, etc.) for tailoring the CV are in `resume-context.md`.
+Two modules:
 
-## Build
+- **`resume/`** — Typst CV (`main.typ`, `data.typ`, `Makefile`). See `resume/AGENTS.md`.
+- **`jobs/`** — job sourcing/discovery module (early — see `jobs/README.md`).
+
+Plus `wiki/` (Obsidian vault, shared) and `.agents/skills/` + `.claude/skills/` (shared skill set).
+
+## Build the CV
 
 ```bash
-make preview
+make preview         # delegates to resume/
+# or: cd resume && make preview
 ```
-
-**Produces:** `dist/main.pdf` and `dist/page-N.png` (300ppi)
-
-**Review:** View the PNG with the Read tool (it can read images directly).
-
-**Use only `make preview` for compiling.**

@@ -5,9 +5,9 @@ tags: [cv, resume, typst, personal]
 source_path: /home/dev/cv2
 sources:
   - /home/dev/cv2/AGENTS.md
-  - /home/dev/cv2/main.typ
-  - /home/dev/cv2/data.typ
-  - /home/dev/cv2/resume-context.md
+  - /home/dev/cv2/resume/AGENTS.md
+  - /home/dev/cv2/resume/main.typ
+  - /home/dev/cv2/resume/data.typ
 summary: Typst-based CV repo for Mark Vavulov. Source data in data.typ, supplementary context in resume-context.md, tailored per application via the cv-customizer skill.
 provenance:
   extracted: 0.85
@@ -25,16 +25,26 @@ updated: 2026-05-24T00:00:00Z
 
 A Typst-based CV/resume project for [[entities/mark-vavulov|Mark Vavulov]]. Lives at `/home/dev/cv2`.
 
-## Architecture
+## Workspace layout
+
+The repo is now a multi-module workspace:
+
+- **`resume/`** — the Typst CV (was the root of the repo until 2026-05-30)
+- **`jobs/`** — job sourcing/discovery module, stub only (stack TBD)
+- **`wiki/`** — Obsidian vault, shared
+- **`.agents/skills/`**, **`.claude/skills/`** — shared skill set
+
+## Resume module (`resume/`)
 
 - **`main.typ`** — the Typst template
 - **`data.typ`** — structured data (`personal-info`, `work-experience`, `education`, `volunteering`, `projects`)
-- **`resume-context.md`** — supplementary self-description Mark uses when tailoring
-- **`Makefile`** — `make preview` is the canonical build command
+- **`Makefile`** — `make preview` is the canonical build command (also delegated from the repo-root Makefile)
 
-**Build output:** `dist/main.pdf` and `dist/page-N.png` (300ppi PNGs that Claude can read directly).
+Supplementary self-description Mark uses when tailoring lives in this wiki — not in a checked-in `resume-context.md` anymore (migrated 2026-05-24).
 
-**Rule:** Use `make preview` exclusively for compiling — codified in `AGENTS.md`. ^[inferred]
+**Build output:** `resume/dist/main.pdf` and `resume/dist/page-N.png` (300ppi PNGs that Claude can read directly).
+
+**Rule:** Use `make preview` exclusively for compiling — codified in `resume/AGENTS.md`. ^[inferred]
 
 ## Tailoring workflow
 

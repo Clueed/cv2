@@ -5,7 +5,7 @@ description: 'Customize a Typst CV for a specific job application. Use when: (1)
 
 # CV Customizer
 
-Customize `data.typ` for a specific job application using context from `resume-context.md`.
+Customize `resume/data.typ` for a specific job application. Supplementary self-description for tailoring lives in the wiki (see `wiki/projects/cv2/cv2.md` and linked pages).
 
 ## Workflow
 
@@ -17,13 +17,13 @@ Customize `data.typ` for a specific job application using context from `resume-c
    - Key responsibilities and role focus
    - Industry/context keywords
 
-3. **Update data.typ** — Reorder and adjust the CV content to prioritize:
+3. **Update `resume/data.typ`** — Reorder and adjust the CV content to prioritize:
    - Work experience bullets that match the role's requirements
    - Skills and interests that are relevant
    - Education/projects that demonstrate fit
    - Remove or deprioritize irrelevant details
 
-4. **Build the CV** — Run `make preview` to compile and verify the output is still a single page.
+4. **Build the CV** — Run `make preview` from the repo root (delegates to `resume/`) and verify the output is still a single page. The build artifacts land in `resume/dist/`.
 
 ## Principles
 
