@@ -35,6 +35,25 @@ Prior to Stackgini: dual IT + financial-operations role at [[references/mark-pri
 - Hired and ramped 3 SDRs in the last 6 months; 2 remain, both hitting 150K pipeline/rep/month.
 - Engineering background is the load-bearing enabler — see [[concepts/founding-gtm-engineer-thesis|founding-gtm-engineer thesis]] and [[skills/ai-powered-sales-tooling|AI-powered sales tooling]].
 
+## Fundraising support (Stackgini pre-seed + seed)
+
+Mark contributed to both Stackgini rounds — not on the core fundraising team, but did substantial supporting work across both outbound origination and in-process raise activities. **For any IR-, fundraising-, fund-modeling-, or capital-formation-shaped role, this is the load-bearing transferable-skill story.**
+
+**Outbound origination:**
+- Sourced VC investors directly via networking events and personal network
+- Ran first investor calls and qualified investors into the fundraising pipeline
+
+**In-process raise support:**
+- Produced investor decks and one-pagers
+- Structured, created, and governed the data room
+- Ran commercial-side due-diligence Q&A (sales pipeline, commercial metrics)
+- Introduced investors to customers; prepped customer reference calls
+- Built pipeline / commercial reporting feeding into investor updates
+- Participated in cap-table and dilution math discussions
+- Supported term-sheet contracting review
+
+CV-tailoring application worked example: [[references/allocator-one-investment-manager-vienna-jd]] (2026-05-31).
+
 ## Style preferences
 
 - Strong preference for **information-dense, dry, straightforward** writing. No fancy language, no framing meta-commentary, no padding. Applies to CV bullets and any pitch material. ^[inferred] (consistent across multiple May 1 sessions)
@@ -44,6 +63,7 @@ Prior to Stackgini: dual IT + financial-operations role at [[references/mark-pri
 ## Active applications
 
 - [[references/anthropic-gtm-strategy-ops-dach-jd|Anthropic — GTM Strategy & Operations (Enterprise), DACH]] (Munich). Stretch role: JD requires 10+ years; Mark has ~2.5. Reframed at least 3 separate times in May 2026. ^[inferred]
+- [[references/allocator-one-investment-manager-vienna-jd|Allocator One — Investment Manager, Vienna]]. Pivot-shape role into IR / fund ops; €80K base. CV tailored 2026-05-31 leaning hard on Financial Management specialization, quantitative IFRS thesis, Luther HGB hands-on Excel, and Stackgini fundraising support. ^[inferred] (tailored; submission not yet confirmed)
 
 ## Sources
 

@@ -19,7 +19,7 @@ lifecycle: draft
 lifecycle_changed: 2026-05-24
 tier: core
 created: 2026-05-24T00:00:00Z
-updated: 2026-05-24T00:00:00Z
+updated: 2026-05-31T02:00:00Z
 ---
 
 # Stackgini
@@ -29,7 +29,7 @@ B2B SaaS for **agentic enterprise IT decision-making** — i.e., the product hel
 ## Company state (as of 2026-05)
 
 - ~10 full-time employees, started bootstrapped in a co-working space
-- Pre-seed raised 2024, currently raising seed
+- **VC-backed.** Pre-seed raised 2024; seed round closed with international investors (closed by 2026-05). ^[inferred — Mark stated the seed "just closed" in the 2026-05-31 conversation]
 - ARR: just over $1M (grown 3x YoY from ~$50K when Mark joined)
 - 25 enterprise accounts closed; 30% win rate, $50K ACV, ~6-month average sales cycle
 - Geography: primarily DACH, significant European presence, first US customer (Danaher) closed in 2025 via SAP LeanIX partnership

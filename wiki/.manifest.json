@@ -1,7 +1,7 @@
 {
   "version": 1,
   "vault_path": "/home/dev/cv2/wiki",
-  "last_ingest": "2026-05-24T11:00:00Z",
+  "last_ingest": "2026-05-31T22:55:00Z",
   "projects": {
     "cv2": {
       "source_path": "~/.claude/projects/-home-dev-cv2",
@@ -15,6 +15,53 @@
     }
   },
   "sources": {
+    "/home/dev/cv2/resume/data.typ": {
+      "source_type": "data",
+      "project": "cv2",
+      "ingested_at": "2026-05-31T22:55:00Z",
+      "size_bytes": 4525,
+      "modified_at": "2026-05-31T22:17:04Z",
+      "content_hash": "sha256:ef51f550ab9a9bffbb4b46f7de0fa11e33179feb571b9cf58ecdc03ff9fa7897",
+      "topic": "Allocator One-tailored CV snapshot",
+      "pages_created": ["references/allocator-one-application-2026-05-31.md"],
+      "pages_updated": ["references/allocator-one-investment-manager-vienna-jd.md"],
+      "note": "Tailored CV submitted to Allocator One on 2026-05-31; bundled with cover letter + DM into single application-package page"
+    },
+    "/home/dev/cv2/cover-letter/data.typ": {
+      "source_type": "data",
+      "project": "cv2",
+      "ingested_at": "2026-05-31T22:55:00Z",
+      "size_bytes": 2676,
+      "modified_at": "2026-05-31T22:51:16Z",
+      "content_hash": "sha256:c28dfdd793cc34f20dd2ac3e2cacd9e3a04465d2e865f5fb0fafe9feafeb3225",
+      "topic": "Allocator One cover letter content (recipient + paragraphs)",
+      "pages_created": [],
+      "pages_updated": ["references/allocator-one-application-2026-05-31.md"],
+      "note": "Verbatim cover letter to Kaven Zhang; ingested into the application-package page"
+    },
+    "/home/dev/cv2/cover-letter/main.typ": {
+      "source_type": "data",
+      "project": "cv2",
+      "ingested_at": "2026-05-31T22:55:00Z",
+      "size_bytes": 1383,
+      "modified_at": "2026-05-31T22:52:03Z",
+      "content_hash": "sha256:5b296aa0b1ddb1df68fa0f15cc57d6c5ab4f30f4707bd30edfd8b10926f8d634",
+      "topic": "Allocator One cover letter typst template (layout only)",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Layout template; no semantic content beyond sender/recipient binding"
+    },
+    "linkedin-dm:kaven-zhang:2026-05-31": {
+      "source_type": "outreach",
+      "project": "cv2",
+      "ingested_at": "2026-05-31T22:55:00Z",
+      "size_bytes": 379,
+      "modified_at": "2026-05-31T22:55:00Z",
+      "topic": "LinkedIn DM to Kaven Zhang (Allocator One) post-application",
+      "pages_created": [],
+      "pages_updated": ["references/allocator-one-application-2026-05-31.md"],
+      "note": "Pasted verbatim by Mark; German; same-day follow-up after formal application"
+    },
     "/home/dev/cv2/data.typ": {
       "source_type": "data",
       "project": "cv2",

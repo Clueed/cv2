@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-24T11:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-31T22:55:00Z*
 
 ## Projects
 
@@ -27,6 +27,8 @@ title: Wiki Index
 
 ## References
 
+- [[references/allocator-one-investment-manager-vienna-jd]] — Allocator One IR/ops role in Vienna; verbatim JD + analysis. Title misleading: ~50% IR comms / ~30% AI workflow automation / ~20% fund modeling ( #job-description #allocator-one #vienna)
+- [[references/allocator-one-application-2026-05-31]] — Frozen package submitted to Allocator One on 2026-05-31: CV, cover letter to Kaven Zhang, and same-day LinkedIn DM ( #cv #cover-letter #allocator-one #snapshot)
 - [[references/anthropic-gtm-strategy-ops-dach-jd]] — Recurring target role: Anthropic GTM Strategy & Ops (Enterprise), DACH, Munich ( #job-description #anthropic)
 - [[references/anthropic-final-resume-2026-05]] — Frozen snapshot of data.typ as sent to Anthropic, captured before file reset ( #cv #snapshot #anthropic)
 - [[references/mark-prior-roles]] — Luther Law Firm (dual IT+finance role, 2023) and freelance merchandising (2020–2022) ( #cv #work-history)
@@ -35,7 +37,8 @@ title: Wiki Index
 
 ## Synthesis
 
-*None yet.*
+- [[synthesis/mark-job-direction-map]] — Wide-net role-shape typology for Mark's next job, organized by where engineer-seller leverage is priced in ( #career #gtm #job-search)
+- [[synthesis/mark-progression-over-direction]] — Mark filters by career progression, not domain; engineer-seller thesis was description not preference ( #career #job-search #decision-filter)
 
 ## Journal
 

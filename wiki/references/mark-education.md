@@ -17,7 +17,7 @@ lifecycle: draft
 lifecycle_changed: 2026-05-24
 tier: supporting
 created: 2026-05-24T00:00:00Z
-updated: 2026-05-24T00:00:00Z
+updated: 2026-05-31T02:00:00Z
 ---
 
 # Mark — Education
@@ -41,12 +41,14 @@ Reference page for CV tailoring: full detail on [[entities/mark-vavulov|Mark]]'s
 ## CBS Cologne Business School — International Business B.A. (Oct 2020 – Aug 2023)
 
 - **GPA: 90% (German grade 1.5)**
-- **Thesis:** whether DAX companies use R&D capitalization under IFRS to manipulate reported earnings
+- **Specialization: Financial Management.** Coursework covered three-statement modeling, DCF, sensitivity analysis, IRR, portfolio theory, derivatives pricing.
+- **Thesis (quantitative):** whether DAX companies use R&D capitalization under IFRS to manipulate reported earnings. Self-collected dataset of ~300 firm-year observations (~60 DAX companies × 5 years) pulled directly from primary filings; regression analysis methodology.
 - Singapore semester abroad taken during this program
 
 ## CV tailoring notes
 
-- The IFRS R&D capitalization thesis is the strongest signal of financial-statement literacy at the academic level — useful when a JD touches accounting, audit, or financial reporting.
+- **For finance- / IR- / fund-modeling-shaped JDs, the Financial Management specialization is the load-bearing education signal.** Lead the CBS bullet with the named specialization + the modeling toolkit list (three-statement, DCF, IRR, sensitivity analysis, portfolio theory, derivatives pricing). Do not list individual course names — that reads junior.
+- The IFRS R&D capitalization thesis carries double duty: financial-statement literacy *and* a quantitative project built from primary filings (~300 firm-year obs, regression analysis). Surface the quantitative depth explicitly when JDs ask for modeling chops; surface the earnings-quality angle when JDs touch accounting, audit, or LP-reported numbers.
 - TU Berlin's Center of Entrepreneurship affiliation is a niche detail; surface it when a JD signals startup ecosystem or founder-track relevance.
 - The JCU Singapore → TU Berlin pivot is the cleanest story for "why CS after business" — a single course converted the trajectory.
 
