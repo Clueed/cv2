@@ -1,4 +1,5 @@
 opencode.json
 /resume/dist
+/cover-letter/dist
 .claude/settings.local.json
 .env
