@@ -13,6 +13,7 @@
     "Open-source/weight LLM models",
     "Developer tooling, experience",
     "Web development (react, typescript)",
+    "Cryptocurrency, on-chain finance",
     "Literature on scifi, history, and white collar crime",
     "Fitness and veganism",
     "Graphic and UI design, typography, user experience",
@@ -23,7 +24,7 @@
   (
     title: "Stackgini",
     location: "Berlin, Germany",
-    description: "B2B SaaS for agentic enterprise IT decision-making",
+    description: "VC-backed B2B SaaS for agentic enterprise IT decision-making",
     dates: dates-helper(start-date: "Nov 2023", end-date: "Present"),
     subtitle: "Founding GTM Lead",
     bullets: (
