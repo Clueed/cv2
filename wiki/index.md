@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-31T22:55:00Z*
+*This index is automatically maintained. Last updated: 2026-06-03T21:20:00Z*
 
 ## Projects
 
@@ -18,6 +18,8 @@ title: Wiki Index
 
 - [[entities/mark-vavulov]] — Founding GTM Lead at Stackgini, subject of the CV ( #person #gtm)
 - [[entities/stackgini]] — B2B SaaS for agentic enterprise IT decision-making; Mark's current employer ( #company #b2b-saas)
+- [[entities/vendure]] — Vienna-based open-source headless commerce framework + commercial enterprise platform; bootstrapped, OSS-to-commercial pivot underway ( #company #b2b-saas #headless-commerce)
+- [[entities/elevantiq]] — Austrian commerce agency (Vienna + Kitzbühel), 80% owner of Vendure; being wound down through 2026 ( #company #agency)
 
 ## Skills
 
@@ -28,7 +30,9 @@ title: Wiki Index
 ## References
 
 - [[references/allocator-one-investment-manager-vienna-jd]] — Allocator One IR/ops role in Vienna; verbatim JD + analysis. Title misleading: ~50% IR comms / ~30% AI workflow automation / ~20% fund modeling ( #job-description #allocator-one #vienna)
+- [[references/vendure-product-marketing-gtm-vienna-jd]] — Vendure Product Marketing & GTM Manager, Vienna (€55–70K). Generalist PMM/demand-gen seat at an OSS-to-enterprise commerce platform ( #job-description #vendure #vienna #product-marketing)
 - [[references/allocator-one-application-2026-05-31]] — Frozen package submitted to Allocator One on 2026-05-31: CV, cover letter to Kaven Zhang, and same-day LinkedIn DM ( #cv #cover-letter #allocator-one #snapshot)
+- [[references/vendure-application-2026-06-03]] — Frozen package submitted to Vendure on 2026-06-03: CV + cover letter to David Höck, anchored on the Feb-2026 Elevantiq-shutdown inflection ( #cv #cover-letter #vendure #snapshot)
 - [[references/anthropic-gtm-strategy-ops-dach-jd]] — Recurring target role: Anthropic GTM Strategy & Ops (Enterprise), DACH, Munich ( #job-description #anthropic)
 - [[references/anthropic-final-resume-2026-05]] — Frozen snapshot of data.typ as sent to Anthropic, captured before file reset ( #cv #snapshot #anthropic)
 - [[references/mark-prior-roles]] — Luther Law Firm (dual IT+finance role, 2023) and freelance merchandising (2020–2022) ( #cv #work-history)

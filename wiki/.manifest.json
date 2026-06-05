@@ -1,7 +1,7 @@
 {
   "version": 1,
   "vault_path": "/home/dev/cv2/wiki",
-  "last_ingest": "2026-05-31T22:55:00Z",
+  "last_ingest": "2026-06-03T21:20:00Z",
   "projects": {
     "cv2": {
       "source_path": "~/.claude/projects/-home-dev-cv2",
@@ -18,26 +18,26 @@
     "/home/dev/cv2/resume/data.typ": {
       "source_type": "data",
       "project": "cv2",
-      "ingested_at": "2026-05-31T22:55:00Z",
-      "size_bytes": 4525,
-      "modified_at": "2026-05-31T22:17:04Z",
-      "content_hash": "sha256:ef51f550ab9a9bffbb4b46f7de0fa11e33179feb571b9cf58ecdc03ff9fa7897",
-      "topic": "Allocator One-tailored CV snapshot",
-      "pages_created": ["references/allocator-one-application-2026-05-31.md"],
-      "pages_updated": ["references/allocator-one-investment-manager-vienna-jd.md"],
-      "note": "Tailored CV submitted to Allocator One on 2026-05-31; bundled with cover letter + DM into single application-package page"
+      "ingested_at": "2026-06-03T21:20:00Z",
+      "size_bytes": 4919,
+      "modified_at": "2026-06-03T20:33:11Z",
+      "content_hash": "sha256:567235f2912a75843b62cf51b3cefd78debe192cfae0a35534e2c14228aeaee3",
+      "topic": "Vendure-tailored CV snapshot",
+      "pages_created": ["references/vendure-application-2026-06-03.md"],
+      "pages_updated": ["references/vendure-product-marketing-gtm-vienna-jd.md"],
+      "note": "Tailored CV submitted to Vendure 2026-06-03; supersedes Allocator One snapshot at the same source path (prior hash ef51f550 → 567235f2). 7-bullet Stackgini, no VC-backed descriptor, OSS-interest-first ordering, Luther kept as presence-only two-line block."
     },
     "/home/dev/cv2/cover-letter/data.typ": {
       "source_type": "data",
       "project": "cv2",
-      "ingested_at": "2026-05-31T22:55:00Z",
-      "size_bytes": 2676,
-      "modified_at": "2026-05-31T22:51:16Z",
-      "content_hash": "sha256:c28dfdd793cc34f20dd2ac3e2cacd9e3a04465d2e865f5fb0fafe9feafeb3225",
-      "topic": "Allocator One cover letter content (recipient + paragraphs)",
+      "ingested_at": "2026-06-03T21:20:00Z",
+      "size_bytes": 2310,
+      "modified_at": "2026-06-03T21:20:42Z",
+      "content_hash": "sha256:cec0079fbc33514055fab2d26b281e81a08528f3e8ae960402beb2e19c2e7b9d",
+      "topic": "Vendure cover letter content (recipient + paragraphs)",
       "pages_created": [],
-      "pages_updated": ["references/allocator-one-application-2026-05-31.md"],
-      "note": "Verbatim cover letter to Kaven Zhang; ingested into the application-package page"
+      "pages_updated": ["references/vendure-application-2026-06-03.md"],
+      "note": "Verbatim cover letter to David Höck (Vendure CEO); supersedes Allocator One letter at the same source path (prior hash c28dfdd7 → cec0079f). Three paragraphs: scale claim + Feb-letter hook / design end of GTM / OSS-incentives thesis."
     },
     "/home/dev/cv2/cover-letter/main.typ": {
       "source_type": "data",
@@ -296,6 +296,49 @@
       "topic": "security-review (errored — ambiguous git ref)",
       "pages_created": [],
       "pages_updated": []
+    },
+    "https://vendure.jobs.personio.de/job/2630178": {
+      "source_type": "url",
+      "project": "cv2",
+      "ingested_at": "2026-06-01T00:00:00Z",
+      "source_url": "https://vendure.jobs.personio.de/job/2630178?display=en&language=en&pid=9dfb9b33-b788-4593-baf9-3e305701dda8&it=roR7c9k-r4GvKU7A3-SvdQ&_ghcid=71e67ea4-f328-4404-ad0c-95e7b0e31743",
+      "stub": false,
+      "promotion_status": "cv2",
+      "topic": "Vendure Product Marketing & GTM Manager (Vienna) job description",
+      "pages_created": ["references/vendure-product-marketing-gtm-vienna-jd.md"],
+      "pages_updated": ["index.md", "log.md", "hot.md"],
+      "note": "Initially structured-summary capture via WebFetch; replaced with verbatim JD pasted by user 2026-06-01. New signals from verbatim: 'first dedicated' PMM/GTM hire, multi-brand setups in ICP, named 'Platform Pilot' sales motion, no formal requirements list."
+    },
+    "research:vendure-deep-dive-2026-06-01": {
+      "type": "research",
+      "topic": "Vendure deep-dive for PMM/GTM Vienna application",
+      "researched_at": "2026-06-01T01:00:00Z",
+      "rounds_completed": 3,
+      "sources_fetched": 14,
+      "project": "cv2",
+      "key_sources": [
+        "https://vendure.io/letter",
+        "https://vendure.io/blog/year-in-review-2025",
+        "https://vendure.io/blog/vendure-technical-roadmap-2026",
+        "https://vendure.io/blog/vendure-sets-a-course-for-bootstrapped-growth",
+        "https://vendure.io/blog/a-new-chapter-for-vendure",
+        "https://vendure.io/pricing",
+        "https://github.com/vendure-ecommerce/vendure",
+        "https://www.linkedin.com/pulse/why-e-commerce-development-so-hard-michael-bromley/",
+        "https://brutkasten.com/artikel/elevantiq-digitalagentur-alpin11-uebernimmt-mehrheit-an-vendure-und-benennt-sich-um",
+        "https://www.emilyomier.com/podcast/building-your-product-with-your-customers-with-david-hck"
+      ],
+      "pages_created": [
+        "entities/vendure.md",
+        "entities/elevantiq.md"
+      ],
+      "pages_updated": [
+        "references/vendure-product-marketing-gtm-vienna-jd.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ],
+      "headline_finding": "Feb 4 2026 leadership letter announces shutdown of Elevantiq (~€3M agency) to go all-in on Vendure as pure product company; PMM/GTM Vienna role is the founding commercial hire. Vendure grew 5x on npm without marketing spend, sales team, or VC money."
     }
   }
 }
