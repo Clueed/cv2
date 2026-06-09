@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-06-03T21:20:00Z*
+*This index is automatically maintained. Last updated: 2026-06-09T00:00:00Z*
 
 ## Projects
 
@@ -13,6 +13,8 @@ title: Wiki Index
 ## Concepts
 
 - [[concepts/founding-gtm-engineer-thesis]] — Why an engineer-seller in a founding GTM seat compounds differently than an MBA-track hire ( #gtm #engineering-leverage)
+- [[concepts/voice-ai-enterprise-tam]] — $400B customer-service TAM frame ElevenLabs uses publicly; the wedge ElevenAgents attacks ( #voice-ai #market-sizing #b2b-saas)
+- [[concepts/elevenlabs-no-titles-operating-model]] — ElevenLabs eliminated formal job titles ~mid-2025; ~20 micro-teams of 5-10; performative discipline, not whimsy ( #operating-model #elevenlabs)
 
 ## Entities
 
@@ -20,6 +22,10 @@ title: Wiki Index
 - [[entities/stackgini]] — B2B SaaS for agentic enterprise IT decision-making; Mark's current employer ( #company #b2b-saas)
 - [[entities/vendure]] — Vienna-based open-source headless commerce framework + commercial enterprise platform; bootstrapped, OSS-to-commercial pivot underway ( #company #b2b-saas #headless-commerce)
 - [[entities/elevantiq]] — Austrian commerce agency (Vienna + Kitzbühel), 80% owner of Vendure; being wound down through 2026 ( #company #agency)
+- [[entities/elevenlabs]] — Frontier voice-AI lab; $500M+ ARR, $11B valuation, $781M raised; IPO 2-3 years; three platforms (ElevenAgents, ElevenCreative, ElevenAPI) ( #company #ai #voice-ai #enterprise)
+- [[entities/mati-staniszewski]] — ElevenLabs co-founder & CEO; ex-Palantir + BlackRock Aladdin; Imperial Math; TIME 100 AI 2025 ( #person #founder #elevenlabs)
+- [[entities/luke-harries]] — ElevenLabs Head of Growth (marketing+product+eng+DevX); ex-PostHog interim Head of Product, Fella Health YC co-founder, Microsoft Research RL ( #person #growth-marketing #elevenlabs)
+- [[entities/carles-reina]] — ElevenLabs VP Revenue / first GTM hire / employee #4; scaled GTM $0 → $330M ARR in 3 years; "20x base salary" quota rule ( #person #gtm #elevenlabs)
 
 ## Skills
 
@@ -31,6 +37,7 @@ title: Wiki Index
 
 - [[references/allocator-one-investment-manager-vienna-jd]] — Allocator One IR/ops role in Vienna; verbatim JD + analysis. Title misleading: ~50% IR comms / ~30% AI workflow automation / ~20% fund modeling ( #job-description #allocator-one #vienna)
 - [[references/vendure-product-marketing-gtm-vienna-jd]] — Vendure Product Marketing & GTM Manager, Vienna (€55–70K). Generalist PMM/demand-gen seat at an OSS-to-enterprise commerce platform ( #job-description #vendure #vienna #product-marketing)
+- [[references/elevenlabs-growth-generalist-jd]] — ElevenLabs Growth Generalist on B2B Marketing team (Remote / Dublin / London / NYC). Operator-shaped generalist seat at a frontier voice-AI lab; cleanest "frontier-lab GTM" instance tracked so far ( #job-description #elevenlabs #remote #growth-marketing #ai)
 - [[references/allocator-one-application-2026-05-31]] — Frozen package submitted to Allocator One on 2026-05-31: CV, cover letter to Kaven Zhang, and same-day LinkedIn DM ( #cv #cover-letter #allocator-one #snapshot)
 - [[references/vendure-application-2026-06-03]] — Frozen package submitted to Vendure on 2026-06-03: CV + cover letter to David Höck, anchored on the Feb-2026 Elevantiq-shutdown inflection ( #cv #cover-letter #vendure #snapshot)
 - [[references/anthropic-gtm-strategy-ops-dach-jd]] — Recurring target role: Anthropic GTM Strategy & Ops (Enterprise), DACH, Munich ( #job-description #anthropic)
@@ -43,6 +50,7 @@ title: Wiki Index
 
 - [[synthesis/mark-job-direction-map]] — Wide-net role-shape typology for Mark's next job, organized by where engineer-seller leverage is priced in ( #career #gtm #job-search)
 - [[synthesis/mark-progression-over-direction]] — Mark filters by career progression, not domain; engineer-seller thesis was description not preference ( #career #job-search #decision-filter)
+- [[synthesis/research-elevenlabs-growth-generalist]] — 3-round ElevenLabs deep-dive: company state, marketing org, Growth Generalist seat-in-context, application angle. Recommendation: apply, ~25-35% interview odds ( #research #elevenlabs #job-search #application-angle)
 
 ## Journal
 

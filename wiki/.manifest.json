@@ -1,7 +1,7 @@
 {
   "version": 1,
   "vault_path": "/home/dev/cv2/wiki",
-  "last_ingest": "2026-06-03T21:20:00Z",
+  "last_ingest": "2026-06-09T00:00:00Z",
   "projects": {
     "cv2": {
       "source_path": "~/.claude/projects/-home-dev-cv2",
@@ -339,6 +339,68 @@
         "hot.md"
       ],
       "headline_finding": "Feb 4 2026 leadership letter announces shutdown of Elevantiq (~€3M agency) to go all-in on Vendure as pure product company; PMM/GTM Vienna role is the founding commercial hire. Vendure grew 5x on npm without marketing spend, sales team, or VC money."
+    },
+    "https://elevenlabs.io/careers/19d9a7a0-10d9-41d8-b515-a61f1d85f186/growth-generalist": {
+      "source_type": "url",
+      "project": "cv2",
+      "ingested_at": "2026-06-09T00:00:00Z",
+      "source_url": "https://elevenlabs.io/careers/19d9a7a0-10d9-41d8-b515-a61f1d85f186/growth-generalist?ashby_jid=19d9a7a0-10d9-41d8-b515-a61f1d85f186",
+      "stub": false,
+      "promotion_status": "cv2",
+      "topic": "ElevenLabs Growth Generalist (Remote / Dublin / London / NYC) job description",
+      "pages_created": [
+        "references/elevenlabs-growth-generalist-jd.md",
+        "entities/elevenlabs.md"
+      ],
+      "pages_updated": ["index.md", "log.md", "hot.md"],
+      "note": "Initial structured-summary capture via WebFetch 2026-06-09; replaced with verbatim JD body pasted by user same day. New signals: 'multiples of 11, always', 'IOI medalists and ex-founders', 'builders doing the best work of their lives'. Role analysis frames seat as the cleanest 'frontier-lab GTM' instance vs FMV / Vendure / Allocator One / Anthropic GTM."
+    },
+    "research:elevenlabs-deep-dive-2026-06-09": {
+      "type": "research",
+      "topic": "ElevenLabs Growth Generalist company + org + application-angle deep-dive",
+      "researched_at": "2026-06-09T02:00:00Z",
+      "rounds_completed": 3,
+      "sources_fetched": 21,
+      "project": "cv2",
+      "key_sources": [
+        "https://elevenlabs.io/blog/series-d",
+        "https://www.bloomberg.com/news/articles/2026-03-09/ai-startup-elevenlabs-aims-to-be-ipo-ready-in-two-or-three-years",
+        "https://sifted.eu/articles/elevenlabs-teases-ipo-timeline-pushes-global-expansion",
+        "https://officechai.com/ai/we-eliminated-titles-at-elevenlabs-and-its-working-well-ceo-mati-staniszewski/",
+        "https://summit.elevenlabs.io/london",
+        "https://harries.co/",
+        "https://www.thetwentyminutevc.com/luke-harries",
+        "https://www.productmarketfit.tech/p/carles-reina-300m-arr-elevenlabs",
+        "https://www.akashbajwa.co/p/ai-moats-and-gtm-carles-reina-elevenlabs",
+        "https://www.saastr.com/elevenlabs-from-0-to-300m-arr-in-3-years-why-the-best-ai-b2b-apps-are-exploding/",
+        "https://siliconangle.com/2026/05/05/elevenlabs-adds-high-profile-investors-annualized-revenue-tops-500m/",
+        "https://elevenlabs.io/blog/conversational-ai-2-0",
+        "https://elevenlabs.io/blog/deutsche-telekom-ai-call-assistant",
+        "https://newsroom.ibm.com/2026-03-25-enterprise-ai-finds-its-voice-elevenlabs-and-ibm-bring-premium-voice-capabilities-to-agentic-ai",
+        "https://www.levels.fyi/companies/elevenlabs/salaries",
+        "https://www.youngju.dev/blog/culture/2026-05-14-ai-voice-2026-elevenlabs-openai-realtime-cartesia-vapi-sesame-deepgram-comparison-deep-dive.en",
+        "https://elevenlabs.io/careers/89f01b9a-be26-4fe4-8a06-e5a65b85fcdc/b2b-marketing-north-america-generalist",
+        "https://research.contrary.com/company/elevenlabs",
+        "https://endeavor.org/stories/why-we-selected-elevenlabs/",
+        "https://en.wikipedia.org/wiki/ElevenLabs",
+        "https://time.com/collections/time100-ai-2025/7305868/mati-staniszewski/"
+      ],
+      "pages_created": [
+        "entities/mati-staniszewski.md",
+        "entities/luke-harries.md",
+        "entities/carles-reina.md",
+        "concepts/voice-ai-enterprise-tam.md",
+        "concepts/elevenlabs-no-titles-operating-model.md",
+        "synthesis/research-elevenlabs-growth-generalist.md"
+      ],
+      "pages_updated": [
+        "entities/elevenlabs.md",
+        "references/elevenlabs-growth-generalist-jd.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ],
+      "headline_finding": "Growth Generalist is the horizontal floater on Luke Harries's Growth umbrella next to four regional/product B2B marketers (NA, UK/I, ElevenCreative, France) plus Head of Performance Marketing. Hiring filter is engineer-operator (Luke = ex-PostHog interim Head of Product / YC HealthTech co-founder / Microsoft Research RL), not marketer-pedigree. Carles Reina (VP Revenue, first GTM hire, employee #4) runs 20x quota rule; scaled $0 → $330M ARR in 3 years; now $500M+. Targeting IPO in 2-3 years. Calibration ~25-35% interview odds; recommendation: apply."
     }
   }
 }
