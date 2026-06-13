@@ -40,6 +40,7 @@ title: Wiki Index
 - [[references/elevenlabs-growth-generalist-jd]] — ElevenLabs Growth Generalist on B2B Marketing team (Remote / Dublin / London / NYC). Operator-shaped generalist seat at a frontier voice-AI lab; cleanest "frontier-lab GTM" instance tracked so far ( #job-description #elevenlabs #remote #growth-marketing #ai)
 - [[references/allocator-one-application-2026-05-31]] — Frozen package submitted to Allocator One on 2026-05-31: CV, cover letter to Kaven Zhang, and same-day LinkedIn DM ( #cv #cover-letter #allocator-one #snapshot)
 - [[references/vendure-application-2026-06-03]] — Frozen package submitted to Vendure on 2026-06-03: CV + cover letter to David Höck, anchored on the Feb-2026 Elevantiq-shutdown inflection ( #cv #cover-letter #vendure #snapshot)
+- [[references/elevenlabs-application-2026-06-13]] — Frozen ElevenLabs application package (draft) 2026-06-13: tailored CV + Q1–Q4 application-form answers ( #cv #elevenlabs #snapshot #growth-marketing)
 - [[references/anthropic-gtm-strategy-ops-dach-jd]] — Recurring target role: Anthropic GTM Strategy & Ops (Enterprise), DACH, Munich ( #job-description #anthropic)
 - [[references/anthropic-final-resume-2026-05]] — Frozen snapshot of data.typ as sent to Anthropic, captured before file reset ( #cv #snapshot #anthropic)
 - [[references/mark-prior-roles]] — Luther Law Firm (dual IT+finance role, 2023) and freelance merchandising (2020–2022) ( #cv #work-history)

@@ -41,7 +41,7 @@ updated: 2026-06-09T00:00:00Z
 | **Valuation** | $11B (Series D, Feb 4 2026) |
 | **Revenue** | $500M+ ARR (May 2026); $0 → $300M in 3 years; $350M end of 2025; ~$450M end of Q1 2026 |
 | **Enterprise penetration** | Used by 41% of Fortune 500 (per SaaStr citing company) |
-| **Headcount** | ~20 micro-teams of 5-10 people (per Mati's no-titles essay), so ~100-200 FTE order of magnitude. ^[inferred] |
+| **Headcount** | ~984 people per LinkedIn (verified 2026-06-09); third-party estimates cluster 700-880 (Tracxn 879 Apr 30; RocketReach 833; LeadIQ ~760 May). The "~20 micro-teams of 5-10" framing from Mati's no-titles essay is outdated. |
 
 ## Founders + key people
 

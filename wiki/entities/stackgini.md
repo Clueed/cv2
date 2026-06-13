@@ -30,8 +30,8 @@ B2B SaaS for **agentic enterprise IT decision-making** — i.e., the product hel
 
 - ~10 full-time employees, started bootstrapped in a co-working space
 - **VC-backed.** Pre-seed raised 2024; seed round closed with international investors (closed by 2026-05). ^[inferred — Mark stated the seed "just closed" in the 2026-05-31 conversation]
-- ARR: just over $1M (grown 3x YoY from ~$50K when Mark joined)
-- 25 enterprise accounts closed; 30% win rate, $50K ACV, ~6-month average sales cycle
+- ARR: just over $1M; was ~$20K with 1 customer when Mark joined Nov 2023 (per Mark 2026-06-09; earlier wiki estimate of $50K was wrong)
+- 35 total customers today (per Mark 2026-06-09); 25 enterprise accounts closed personally by Mark at 30% win rate, $50K ACV, ~6-month average sales cycle
 - Geography: primarily DACH, significant European presence, first US customer (Danaher) closed in 2025 via SAP LeanIX partnership
 
 ## The product

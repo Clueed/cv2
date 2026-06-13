@@ -179,6 +179,7 @@ Differentiator vs typical "Growth Generalist" applicants (consultants pivoting i
 
 ## Related
 
+- [[references/elevenlabs-application-2026-06-13]] — frozen application package draft (tailored CV + Q1–Q4 answers)
 - [[synthesis/research-elevenlabs-growth-generalist]] — application-angle synthesis (load-bearing for cover-letter prep)
 - [[entities/elevenlabs]] — full company profile (funding, customers, products, competition, comp signals)
 - [[entities/luke-harries]] — Head of Growth; hiring-manager-orbit; his "Your first growth hire" essay is the closest public spec for this seat

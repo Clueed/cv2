@@ -1,7 +1,7 @@
 {
   "version": 1,
   "vault_path": "/home/dev/cv2/wiki",
-  "last_ingest": "2026-06-09T00:00:00Z",
+  "last_ingest": "2026-06-13T00:00:00Z",
   "projects": {
     "cv2": {
       "source_path": "~/.claude/projects/-home-dev-cv2",
@@ -18,14 +18,26 @@
     "/home/dev/cv2/resume/data.typ": {
       "source_type": "data",
       "project": "cv2",
-      "ingested_at": "2026-06-03T21:20:00Z",
-      "size_bytes": 4919,
-      "modified_at": "2026-06-03T20:33:11Z",
-      "content_hash": "sha256:567235f2912a75843b62cf51b3cefd78debe192cfae0a35534e2c14228aeaee3",
-      "topic": "Vendure-tailored CV snapshot",
-      "pages_created": ["references/vendure-application-2026-06-03.md"],
-      "pages_updated": ["references/vendure-product-marketing-gtm-vienna-jd.md"],
-      "note": "Tailored CV submitted to Vendure 2026-06-03; supersedes Allocator One snapshot at the same source path (prior hash ef51f550 → 567235f2). 7-bullet Stackgini, no VC-backed descriptor, OSS-interest-first ordering, Luther kept as presence-only two-line block."
+      "ingested_at": "2026-06-13T00:00:00Z",
+      "size_bytes": 4608,
+      "modified_at": "2026-06-13T00:00:00Z",
+      "content_hash": "sha256:19162931a80d7710c336482d4ef55b994ffd36f54b21ca9286226c8cf9b9af34",
+      "topic": "ElevenLabs-tailored CV snapshot",
+      "pages_created": ["references/elevenlabs-application-2026-06-13.md"],
+      "pages_updated": ["references/elevenlabs-growth-generalist-jd.md"],
+      "note": "Tailored CV for ElevenLabs Growth Generalist 2026-06-13 (draft, not yet submitted); supersedes Vendure snapshot at the same source path (prior hash 567235f2 → 19162931). 6-bullet Stackgini rewritten for SQL+dashboards+spreadsheets+copy+events+intra-IT-buying-center, AI tooling at bullet 2 with per-tool metric attribution, VC-backed descriptor restored, volunteering dropped, crypto interest dropped, voice-AI interest considered and rejected."
+    },
+    "/home/dev/cv2/cover-letter/elevenlabs-application-draft.md": {
+      "source_type": "data",
+      "project": "cv2",
+      "ingested_at": "2026-06-13T00:00:00Z",
+      "size_bytes": 4107,
+      "modified_at": "2026-06-13T00:00:00Z",
+      "content_hash": "sha256:a82570f0754f5425e4ab937ca88f27b151fe688ee467f7303864a20f90fbf0d8",
+      "topic": "ElevenLabs Growth Generalist application-form answers Q1-Q4 (draft)",
+      "pages_created": [],
+      "pages_updated": ["references/elevenlabs-application-2026-06-13.md"],
+      "note": "Four free-text application-form answers in place of a cover letter (Ashby form has no cover-letter field). Q1 drops the 'why now' framing, anchors on operating culture; Q2 leads on Stackgini category-creation, not commercial detail; Q3 acknowledges that only time can prove success; Q4 is a real personal-use video project with ElevenLabs v3 expressiveness. No em dashes, no self-hedging, no demand-gen lexicon."
     },
     "/home/dev/cv2/cover-letter/data.typ": {
       "source_type": "data",
