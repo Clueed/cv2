@@ -13,7 +13,7 @@ relationships:
   - target: "[[entities/mark-vavulov]]"
     type: related_to
   - target: "[[entities/vendure]]"
-    type: targets
+    type: related_to
 sources:
   - /home/dev/cv2/resume/data.typ (sha256 567235f2…, 4919 bytes, mtime 2026-06-03T20:33:11Z)
   - /home/dev/cv2/cover-letter/data.typ (sha256 cec0079f…, 2310 bytes, mtime 2026-06-03T21:20:42Z)

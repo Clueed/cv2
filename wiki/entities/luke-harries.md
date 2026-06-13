@@ -13,8 +13,9 @@ sources:
   - https://www.linkedin.com/posts/luke-harries_the-first-elevenlabs-billboard-campaign-is-activity-7333875239551983616-UB-1
 summary: >-
   Head of Growth at ElevenLabs (marketing + product + eng + DevX). Engineer-by-training operator. Ex-PostHog interim Head of Product, Fella Health YC co-founder, Microsoft Research RL. Wrote ElevenLabs' no-titles essay.
-lifecycle: stable
-lifecycle_changed: 2026-06-09
+base_confidence: 0.72
+lifecycle: reviewed
+lifecycle_changed: 2026-06-13
 tier: core
 created: 2026-06-09T00:00:00Z
 updated: 2026-06-09T00:00:00Z

@@ -6,11 +6,11 @@ tags: [job-description, first-momentum, munich, remote, vc, visiting-associate, 
 aliases: [FMV Visiting Associate, First Momentum Visiting Associate 2027]
 relationships:
   - target: "[[entities/first-momentum-ventures]]"
-    type: posted_by
+    type: related_to
   - target: "[[entities/mark-vavulov]]"
     type: related_to
   - target: "[[synthesis/mark-progression-over-direction]]"
-    type: tested_by
+    type: uses
 sources:
   - https://jobs.firstmomentum.vc/companies/first-momentum-ventures-2/jobs/61188782-visiting-associate-munich-or-remote-6-to-12-months-from-january-february-2026
   - conversation:2026-06-05

@@ -15,8 +15,9 @@ sources:
   - https://www.bloomberg.com/news/articles/2026-03-09/ai-startup-elevenlabs-aims-to-be-ipo-ready-in-two-or-three-years
 summary: >-
   Co-founder & CEO of ElevenLabs. Polish; ex-Palantir Deployment Strategist, ex-BlackRock Aladdin Wealth. Imperial College Mathematics. TIME 100 AI 2025. Architect of the no-titles operating model.
-lifecycle: stable
-lifecycle_changed: 2026-06-09
+base_confidence: 0.75
+lifecycle: reviewed
+lifecycle_changed: 2026-06-13
 tier: core
 created: 2026-06-09T00:00:00Z
 updated: 2026-06-09T00:00:00Z

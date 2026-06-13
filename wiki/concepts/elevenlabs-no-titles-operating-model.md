@@ -9,8 +9,9 @@ sources:
   - https://elevenlabs.io/careers
 summary: >-
   ElevenLabs eliminated formal job titles ~mid-2025. Organised as ~20 micro-teams of 5-10 people. "Impact, not titles." This is performative discipline, not whimsy.
-lifecycle: stable
-lifecycle_changed: 2026-06-09
+base_confidence: 0.70
+lifecycle: reviewed
+lifecycle_changed: 2026-06-13
 tier: supporting
 created: 2026-06-09T00:00:00Z
 updated: 2026-06-09T00:00:00Z

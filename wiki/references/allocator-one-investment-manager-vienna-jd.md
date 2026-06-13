@@ -8,7 +8,7 @@ relationships:
   - target: "[[entities/mark-vavulov]]"
     type: related_to
   - target: "[[synthesis/mark-progression-over-direction]]"
-    type: tested_by
+    type: uses
   - target: "[[references/allocator-one-application-2026-05-31]]"
     type: implements
 sources:

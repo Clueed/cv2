@@ -9,6 +9,7 @@ sources:
   - https://elevenlabs.io/blog/deutsche-telekom-ai-call-assistant
 summary: >-
   The enterprise voice-AI wedge frames customer service ($400B/yr global spend) as the immediate TAM. ElevenAgents lands inside contact centres and telco networks; "10 hours on hold per UK resident per year" is the public hook.
+base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-06-09
 tier: supporting

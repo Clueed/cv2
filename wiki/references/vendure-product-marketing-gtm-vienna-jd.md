@@ -8,9 +8,9 @@ relationships:
   - target: "[[entities/mark-vavulov]]"
     type: related_to
   - target: "[[synthesis/mark-progression-over-direction]]"
-    type: tested_by
+    type: uses
   - target: "[[synthesis/mark-job-direction-map]]"
-    type: tested_by
+    type: uses
 sources:
   - https://vendure.jobs.personio.de/job/2630178
 source_url: https://vendure.jobs.personio.de/job/2630178?display=en&language=en&pid=9dfb9b33-b788-4593-baf9-3e305701dda8&it=roR7c9k-r4GvKU7A3-SvdQ&_ghcid=71e67ea4-f328-4404-ad0c-95e7b0e31743
@@ -21,8 +21,8 @@ provenance:
   inferred: 0.35
   ambiguous: 0.05
 base_confidence: 0.62
-lifecycle: applied
-lifecycle_changed: 2026-06-03
+lifecycle: reviewed
+lifecycle_changed: 2026-06-13
 tier: supporting
 created: 2026-06-01T00:00:00Z
 updated: 2026-06-03T21:20:00Z

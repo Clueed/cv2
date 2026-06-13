@@ -16,7 +16,7 @@ relationships:
   - target: "[[entities/mark-vavulov]]"
     type: related_to
   - target: "[[entities/elevenlabs]]"
-    type: targets
+    type: related_to
 sources:
   - /home/dev/cv2/resume/data.typ (sha256 19162931…, 4608 bytes, mtime 2026-06-13)
   - /home/dev/cv2/cover-letter/elevenlabs-application-draft.md (sha256 a82570f0…, 4107 bytes, mtime 2026-06-13)

@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-06-09T00:00:00Z*
+*This index is automatically maintained. Last updated: 2026-06-13T00:00:00Z*
 
 ## Projects
 
@@ -23,6 +23,7 @@ title: Wiki Index
 - [[entities/vendure]] — Vienna-based open-source headless commerce framework + commercial enterprise platform; bootstrapped, OSS-to-commercial pivot underway ( #company #b2b-saas #headless-commerce)
 - [[entities/elevantiq]] — Austrian commerce agency (Vienna + Kitzbühel), 80% owner of Vendure; being wound down through 2026 ( #company #agency)
 - [[entities/elevenlabs]] — Frontier voice-AI lab; $500M+ ARR, $11B valuation, $781M raised; IPO 2-3 years; three platforms (ElevenAgents, ElevenCreative, ElevenAPI) ( #company #ai #voice-ai #enterprise)
+- [[entities/first-momentum-ventures]] — Karlsruhe pre-seed deep-tech VC; €35M Fund II; ~€100M AUM; 42 portfolio companies; engineer-led ( #company #vc #pre-seed #deep-tech #dach)
 - [[entities/mati-staniszewski]] — ElevenLabs co-founder & CEO; ex-Palantir + BlackRock Aladdin; Imperial Math; TIME 100 AI 2025 ( #person #founder #elevenlabs)
 - [[entities/luke-harries]] — ElevenLabs Head of Growth (marketing+product+eng+DevX); ex-PostHog interim Head of Product, Fella Health YC co-founder, Microsoft Research RL ( #person #growth-marketing #elevenlabs)
 - [[entities/carles-reina]] — ElevenLabs VP Revenue / first GTM hire / employee #4; scaled GTM $0 → $330M ARR in 3 years; "20x base salary" quota rule ( #person #gtm #elevenlabs)
@@ -41,6 +42,7 @@ title: Wiki Index
 - [[references/allocator-one-application-2026-05-31]] — Frozen package submitted to Allocator One on 2026-05-31: CV, cover letter to Kaven Zhang, and same-day LinkedIn DM ( #cv #cover-letter #allocator-one #snapshot)
 - [[references/vendure-application-2026-06-03]] — Frozen package submitted to Vendure on 2026-06-03: CV + cover letter to David Höck, anchored on the Feb-2026 Elevantiq-shutdown inflection ( #cv #cover-letter #vendure #snapshot)
 - [[references/elevenlabs-application-2026-06-13]] — Frozen ElevenLabs application package (draft) 2026-06-13: tailored CV + Q1–Q4 application-form answers ( #cv #elevenlabs #snapshot #growth-marketing)
+- [[references/first-momentum-visiting-associate-2027-jd]] — First Momentum Ventures Visiting Associate, Munich or Remote, Jan 2027 start, 6–12 month fixed-term investment-team seat ( #job-description #first-momentum-ventures #munich #vc #visiting-associate)
 - [[references/anthropic-gtm-strategy-ops-dach-jd]] — Recurring target role: Anthropic GTM Strategy & Ops (Enterprise), DACH, Munich ( #job-description #anthropic)
 - [[references/anthropic-final-resume-2026-05]] — Frozen snapshot of data.typ as sent to Anthropic, captured before file reset ( #cv #snapshot #anthropic)
 - [[references/mark-prior-roles]] — Luther Law Firm (dual IT+finance role, 2023) and freelance merchandising (2020–2022) ( #cv #work-history)

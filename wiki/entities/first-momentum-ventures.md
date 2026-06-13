@@ -5,7 +5,7 @@ tags: [company, vc, pre-seed, deep-tech, dach, karlsruhe, munich, germany]
 aliases: [First Momentum, FMV, First Momentum VC]
 relationships:
   - target: "[[references/first-momentum-visiting-associate-2027-jd]]"
-    type: posts_role
+    type: related_to
 sources:
   - https://www.firstmomentum.vc/
   - https://www.firstmomentum.vc/portfolio
@@ -124,5 +124,6 @@ Operates in the same European pre-seed deep-tech tier as Cherry Ventures (broade
 ## Related
 
 - [[references/first-momentum-visiting-associate-2027-jd]] — Visiting Associate JD (Jan 2027 start)
+- [[entities/stackgini]] — Mark's current employer; founding-GTM and AI-tooling work is the operator-shape proof against FMV's portfolio-support pillar
 - [[synthesis/mark-progression-over-direction]] — decision filter under which a VC-side seat is scored
 - [[synthesis/mark-job-direction-map]] — broader role typology (this seat sits in the investor branch)

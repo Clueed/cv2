@@ -20,8 +20,9 @@ sources:
   - https://newsroom.ibm.com/2026-03-25-enterprise-ai-finds-its-voice-elevenlabs-and-ibm-bring-premium-voice-capabilities-to-agentic-ai
 summary: >-
   Frontier voice-AI company; $500M+ ARR by May 2026, $11B valuation, $781M raised; three platforms (ElevenAgents enterprise, ElevenCreative, ElevenAPI). Targeting IPO in 2-3 years; possible Warsaw-London dual listing.
-lifecycle: stable
-lifecycle_changed: 2026-06-09
+base_confidence: 0.78
+lifecycle: reviewed
+lifecycle_changed: 2026-06-13
 tier: core
 created: 2026-06-09T00:00:00Z
 updated: 2026-06-09T00:00:00Z
@@ -195,6 +196,7 @@ Equity reportedly represents **20-40% of total comp**. Series D valuation makes 
 - [[entities/mati-staniszewski]] — co-founder + CEO
 - [[entities/luke-harries]] — Head of Growth (likely orbital hiring manager)
 - [[entities/carles-reina]] — VP Revenue / first GTM hire
+- [[entities/stackgini]] — Mark's current employer; intra-IT buying-center experience is the unfair-advantage angle vs typical Growth Generalist applicants
 - [[concepts/voice-ai-enterprise-tam]] — $400B customer-service TAM frame
 - [[concepts/elevenlabs-no-titles-operating-model]] — operating-culture detail
 - [[synthesis/mark-job-direction-map]] — frontier-lab GTM branch

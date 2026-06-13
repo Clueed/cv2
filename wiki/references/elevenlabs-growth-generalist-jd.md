@@ -6,13 +6,13 @@ tags: [job-description, elevenlabs, remote, ai, voice-ai, growth-marketing, b2b-
 aliases: [ElevenLabs Growth Generalist, ElevenLabs B2B Marketing Generalist]
 relationships:
   - target: "[[entities/elevenlabs]]"
-    type: posted_by
+    type: related_to
   - target: "[[entities/mark-vavulov]]"
     type: related_to
   - target: "[[synthesis/mark-progression-over-direction]]"
-    type: tested_by
+    type: uses
   - target: "[[synthesis/mark-job-direction-map]]"
-    type: tested_by
+    type: uses
 sources:
   - https://elevenlabs.io/careers/19d9a7a0-10d9-41d8-b515-a61f1d85f186/growth-generalist?ashby_jid=19d9a7a0-10d9-41d8-b515-a61f1d85f186
 source_url: https://elevenlabs.io/careers/19d9a7a0-10d9-41d8-b515-a61f1d85f186/growth-generalist?ashby_jid=19d9a7a0-10d9-41d8-b515-a61f1d85f186

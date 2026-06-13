@@ -76,3 +76,11 @@ Initial customer success function was tried as a classic CS model. The enterpris
 - [[entities/mark-vavulov]] — founding GTM lead
 - [[skills/ai-powered-sales-tooling]] — the custom tooling Mark built for Stackgini
 - [[concepts/founding-gtm-engineer-thesis]] — why an engineer-seller was the load-bearing GTM bet
+
+### Comparator companies (Mark's target landscape)
+
+Stackgini is the baseline against which Mark scores next-step employers. The intra-IT buying-center motion and founding-GTM scope are the proof points carried into each application:
+
+- [[entities/vendure]] — Vienna OSS-to-commercial commerce framework; founding PMM/GTM seat. Mark's Stackgini bullets anchor the Vendure application package.
+- [[entities/elevenlabs]] — frontier voice-AI lab; Growth Generalist seat. Stackgini's intra-IT buying-center work maps onto ElevenAgents' IT/CX procurement.
+- [[entities/first-momentum-ventures]] — Karlsruhe pre-seed deep-tech VC; Visiting Associate seat. Engineer-seller proof carries to portfolio-support work.

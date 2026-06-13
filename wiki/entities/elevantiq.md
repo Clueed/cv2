@@ -5,7 +5,7 @@ tags: [company, agency, austria, vienna, kitzbuhel, b2b-commerce]
 aliases: [Elevantiq, ALPIN11, Alpin 11]
 relationships:
   - target: "[[entities/vendure]]"
-    type: owns
+    type: related_to
 sources:
   - https://elevantiq.com/
   - https://brutkasten.com/artikel/elevantiq-digitalagentur-alpin11-uebernimmt-mehrheit-an-vendure-und-benennt-sich-um

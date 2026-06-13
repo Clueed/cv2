@@ -13,8 +13,9 @@ sources:
   - https://www.eu-startups.com/2025/06/eu-startups-podcast-episode-123-carles-reina-investor-and-go-to-market-strategist-at-elevenlabs/
 summary: >-
   VP Revenue at ElevenLabs; first GTM hire, employee #4, first investor. Scaled GTM from $0 → $330M ARR in 3 years. Runs the "20x base salary in revenue" quota rule. Also runs a €12.9M solo GP fund.
-lifecycle: stable
-lifecycle_changed: 2026-06-09
+base_confidence: 0.72
+lifecycle: reviewed
+lifecycle_changed: 2026-06-13
 tier: core
 created: 2026-06-09T00:00:00Z
 updated: 2026-06-09T00:00:00Z

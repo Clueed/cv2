@@ -5,9 +5,9 @@ tags: [company, b2b-saas, headless-commerce, open-source, oss-commercial, vienna
 aliases: [Vendure, Vendure GmbH, vendure.io]
 relationships:
   - target: "[[entities/elevantiq]]"
-    type: owned_by
+    type: related_to
   - target: "[[references/vendure-product-marketing-gtm-vienna-jd]]"
-    type: posts_role
+    type: related_to
 sources:
   - https://vendure.io/
   - https://vendure.io/letter
@@ -214,6 +214,7 @@ The PMM/GTM Manager role is the **operational owner of pillars 3 and parts of 1,
 ## Related
 
 - [[entities/elevantiq]] — parent company / former agency
+- [[entities/stackgini]] — Mark's current employer; similar technical-buyer shape (engineering / commerce-platform leads vs IT decision-makers)
 - [[references/vendure-product-marketing-gtm-vienna-jd]] — the role posting
 - [[synthesis/mark-progression-over-direction]] — the filter under which this seat is scored
 - [[synthesis/mark-job-direction-map]] — broader role typology
