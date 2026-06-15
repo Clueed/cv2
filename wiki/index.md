@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-06-13T00:00:00Z*
+*This index is automatically maintained. Last updated: 2026-06-13T12:00:00Z*
 
 ## Projects
 
@@ -27,6 +27,7 @@ title: Wiki Index
 - [[entities/mati-staniszewski]] — ElevenLabs co-founder & CEO; ex-Palantir + BlackRock Aladdin; Imperial Math; TIME 100 AI 2025 ( #person #founder #elevenlabs)
 - [[entities/luke-harries]] — ElevenLabs Head of Growth (marketing+product+eng+DevX); ex-PostHog interim Head of Product, Fella Health YC co-founder, Microsoft Research RL ( #person #growth-marketing #elevenlabs)
 - [[entities/carles-reina]] — ElevenLabs VP Revenue / first GTM hire / employee #4; scaled GTM $0 → $330M ARR in 3 years; "20x base salary" quota rule ( #person #gtm #elevenlabs)
+- [[entities/enpulsion]] — Vienna-Schwechat space-tech scaleup; modular FEEP electric propulsion for SmallSats; founded 2016; NewSpace segment (stub) ( #company #space-tech #deep-tech #vienna)
 
 ## Skills
 
@@ -42,7 +43,9 @@ title: Wiki Index
 - [[references/allocator-one-application-2026-05-31]] — Frozen package submitted to Allocator One on 2026-05-31: CV, cover letter to Kaven Zhang, and same-day LinkedIn DM ( #cv #cover-letter #allocator-one #snapshot)
 - [[references/vendure-application-2026-06-03]] — Frozen package submitted to Vendure on 2026-06-03: CV + cover letter to David Höck, anchored on the Feb-2026 Elevantiq-shutdown inflection ( #cv #cover-letter #vendure #snapshot)
 - [[references/elevenlabs-application-2026-06-13]] — Frozen ElevenLabs application package (draft) 2026-06-13: tailored CV + Q1–Q4 application-form answers ( #cv #elevenlabs #snapshot #growth-marketing)
+- [[references/enpulsion-application-2026-06-15]] — Frozen ENPULSION CV snapshot (draft, CV-only) 2026-06-15: Stackgini bullets rewritten for execution-translation, cross-functional coordination, productization, fundraising-support reps; commercial-pillar bullets pruned ( #cv #enpulsion #snapshot #chief-of-staff)
 - [[references/first-momentum-visiting-associate-2027-jd]] — First Momentum Ventures Visiting Associate, Munich or Remote, Jan 2027 start, 6–12 month fixed-term investment-team seat ( #job-description #first-momentum-ventures #munich #vc #visiting-associate)
+- [[references/enpulsion-ceo-associate-vienna-jd]] — ENPULSION CEO Associate / Chief of Staff, Vienna-Schwechat; permanent CEO-orbit execution-partner seat at a space-tech scaleup; most off-commercial role tracked so far ( #job-description #enpulsion #vienna #chief-of-staff #space-tech)
 - [[references/anthropic-gtm-strategy-ops-dach-jd]] — Recurring target role: Anthropic GTM Strategy & Ops (Enterprise), DACH, Munich ( #job-description #anthropic)
 - [[references/anthropic-final-resume-2026-05]] — Frozen snapshot of data.typ as sent to Anthropic, captured before file reset ( #cv #snapshot #anthropic)
 - [[references/mark-prior-roles]] — Luther Law Firm (dual IT+finance role, 2023) and freelance merchandising (2020–2022) ( #cv #work-history)

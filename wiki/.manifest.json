@@ -1,7 +1,7 @@
 {
   "version": 1,
   "vault_path": "/home/dev/cv2/wiki",
-  "last_ingest": "2026-06-13T00:00:00Z",
+  "last_ingest": "2026-06-15T00:00:00Z",
   "projects": {
     "cv2": {
       "source_path": "~/.claude/projects/-home-dev-cv2",
@@ -18,14 +18,14 @@
     "/home/dev/cv2/resume/data.typ": {
       "source_type": "data",
       "project": "cv2",
-      "ingested_at": "2026-06-13T00:00:00Z",
-      "size_bytes": 4608,
-      "modified_at": "2026-06-13T00:00:00Z",
-      "content_hash": "sha256:19162931a80d7710c336482d4ef55b994ffd36f54b21ca9286226c8cf9b9af34",
-      "topic": "ElevenLabs-tailored CV snapshot",
-      "pages_created": ["references/elevenlabs-application-2026-06-13.md"],
-      "pages_updated": ["references/elevenlabs-growth-generalist-jd.md"],
-      "note": "Tailored CV for ElevenLabs Growth Generalist 2026-06-13 (draft, not yet submitted); supersedes Vendure snapshot at the same source path (prior hash 567235f2 → 19162931). 6-bullet Stackgini rewritten for SQL+dashboards+spreadsheets+copy+events+intra-IT-buying-center, AI tooling at bullet 2 with per-tool metric attribution, VC-backed descriptor restored, volunteering dropped, crypto interest dropped, voice-AI interest considered and rejected."
+      "ingested_at": "2026-06-15T00:00:00Z",
+      "size_bytes": 4677,
+      "modified_at": "2026-06-13T13:47:57Z",
+      "content_hash": "sha256:4159f41d4b9f4f596f9853b2cfc88017efcff2fef74a618cbd8a4fecaccb3241",
+      "topic": "ENPULSION-tailored CV snapshot",
+      "pages_created": ["references/enpulsion-application-2026-06-15.md"],
+      "pages_updated": ["references/enpulsion-ceo-associate-vienna-jd.md"],
+      "note": "Tailored CV for ENPULSION CEO Associate / Chief of Staff 2026-06-15 (draft, CV-only, no cover letter, not yet submitted); supersedes ElevenLabs snapshot at the same source path (prior hash 19162931 → 4159f41d). 6-bullet Stackgini rewritten for CoS seat: bullet 1 keeps scale claim, bullet 2 is direct JD echo on execution-translation (quarterly cadences with CEO/CRO, decisions → action plans with owners and timelines), bullet 3 reframes AI tooling as systems-building/productization, bullet 4 adds cross-functional qualifier on CS pivot, bullet 5 is new founder-side fundraising-support reps (cap-table, DDQ&A, term-sheet review), bullet 6 reframes enterprise pitching as C/VP exec-audience deck-craft. Commercial-pillar bullets pruned (enterprise sales metrics, partner channel, F500 sourcing). VC-backed descriptor restored. Crypto interest dropped."
     },
     "/home/dev/cv2/cover-letter/elevenlabs-application-draft.md": {
       "source_type": "data",
@@ -366,6 +366,21 @@
       ],
       "pages_updated": ["index.md", "log.md", "hot.md"],
       "note": "Initial structured-summary capture via WebFetch 2026-06-09; replaced with verbatim JD body pasted by user same day. New signals: 'multiples of 11, always', 'IOI medalists and ex-founders', 'builders doing the best work of their lives'. Role analysis frames seat as the cleanest 'frontier-lab GTM' instance vs FMV / Vendure / Allocator One / Anthropic GTM."
+    },
+    "https://www.enpulsion.com/careers/position/2659371/": {
+      "source_type": "url",
+      "project": "cv2",
+      "ingested_at": "2026-06-13T13:00:00Z",
+      "source_url": "https://www.enpulsion.com/careers/position/2659371/",
+      "stub": false,
+      "promotion_status": "cv2",
+      "topic": "ENPULSION CEO Associate (Chief of Staff), Vienna-Schwechat job description",
+      "pages_created": [
+        "references/enpulsion-ceo-associate-vienna-jd.md",
+        "entities/enpulsion.md"
+      ],
+      "pages_updated": ["index.md", "log.md", "hot.md"],
+      "note": "Verbatim JD pasted by user 2026-06-13. Permanent CEO-orbit execution-partner seat at Vienna-area space-tech scaleup (modular FEEP propulsion for SmallSats, founded 2016, VIE Airport City office). Pillar weighting ~30% decision-to-execution / ~25% cross-functional coordination / ~20% executive materials / ~15% lightweight process design / ~10% CEO proxy. Most off-commercial seat tracked (~15-20% commercial per mark-progression-over-direction filter), bigger directional swing than FMV / Allocator One / Vendure / ElevenLabs. Comp floor €3,415.01 × 14 ≈ €47,810; realistic range €55-75K with overpayment. Yellow flag: 'advanced PowerPoint and presentation skills' named twice — possible deck-monkey shape risk needs screen-level diligence. First verified JD for the Tier 1.5 'Founders Associate / Chief of Staff' role-pattern previously logged as monitoring tier in synthesis/mark-job-direction-map."
     },
     "research:elevenlabs-deep-dive-2026-06-09": {
       "type": "research",
