@@ -19,7 +19,7 @@ lifecycle: draft
 lifecycle_changed: 2026-05-24
 tier: core
 created: 2026-05-24T00:00:00Z
-updated: 2026-05-31T02:00:00Z
+updated: 2026-06-13T00:00:00Z
 ---
 
 # Stackgini
@@ -57,7 +57,44 @@ The actual stakeholder groups in a Stackgini buying center:
 
 ## Customer references
 
-Closed: DHL (logistics), Siemens Healthineers (healthcare), REWE (retail), Danaher (F500 manufacturing/life sciences, first US customer), HAYS (staffing), National Bank of Liechtenstein (financial services).
+Closed-customer roster (as of 2026-06-13):
+
+- REWE International Dienstleistungsgesellschaft m.b.H.
+- Stadt Frankfurt am Main
+- Siemens AG (parent company; distinct from Siemens Healthineers AG and Innomotics below)
+- Hays
+- Wolff & Müller
+- Otto Dörner
+- DATEV eG
+- EHG GmbH & Co. KG
+- Carl Zeiss AG
+- Swiss Life Deutschland Operations GmbH
+- Sana Kliniken AG
+- Eppendorf SE
+- Detlev Louis Motorrad-Vertriebsgesellschaft mbH
+- SAP SE
+- Innomotics
+- REWE Group
+- REWE digital
+- DHL AG
+- Wieland Group
+- igus SE & Co. KG
+- Badenova AG & Co. KG
+- TÜV Rheinland Service GmbH
+- Golf BidCo GmbH (GETEC)
+- Grünenthal Pharma GmbH & Co. KG
+- Siemens Healthineers AG
+- Endress+Hauser InfoServe GmbH+Co. KG
+- Stadtwerke Düsseldorf AG
+- Genoverband
+- AKA
+- VTG GmbH
+- KARL STORZ
+- Hapag-Lloyd
+- Danaher (F500 manufacturing/life sciences; first US customer, via SAP LeanIX)
+- National Bank of Liechtenstein (financial services)
+
+Anchor customers cited externally (CV, pitches): DHL, Siemens Healthineers, REWE, Danaher, HAYS, National Bank of Liechtenstein.
 
 ## Partnerships
 
