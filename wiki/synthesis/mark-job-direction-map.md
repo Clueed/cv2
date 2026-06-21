@@ -118,6 +118,7 @@ Filling these gaps is a prerequisite for turning this map into a shortlist.
 - [[entities/stackgini]]
 - [[concepts/founding-gtm-engineer-thesis]]
 - [[skills/ai-powered-sales-tooling]]
+- [[synthesis/mark-experience-framing-repertoire]] — the fact inventory + framing library that fills each of these role shapes
 - [[references/mark-education]]
 - [[references/mark-prior-roles]]
 - [[references/tendenz-project]]

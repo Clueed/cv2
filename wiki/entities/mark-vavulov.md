@@ -73,6 +73,7 @@ CV-tailoring application worked example: [[references/allocator-one-investment-m
 
 ## Related pages
 
+- [[synthesis/mark-experience-framing-repertoire]] — synthesis: canonical fact inventory + every proven CV/cover-letter framing keyed to role shape
 - [[references/mark-prior-roles]] — Luther Law Firm + freelance merchandising
 - [[references/mark-education]] — CBS Cologne, JCU Singapore, TU Berlin
 - [[references/tendenz-project]] — tendenz.vercel.app side project

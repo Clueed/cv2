@@ -60,6 +60,7 @@ title: Wiki Index
 - [[synthesis/mark-job-direction-map]] — Wide-net role-shape typology for Mark's next job, organized by where engineer-seller leverage is priced in ( #career #gtm #job-search)
 - [[synthesis/mark-progression-over-direction]] — Mark filters by career progression, not domain; engineer-seller thesis was description not preference ( #career #job-search #decision-filter)
 - [[synthesis/research-elevenlabs-growth-generalist]] — 3-round ElevenLabs deep-dive: company state, marketing org, Growth Generalist seat-in-context, application angle. Recommendation: apply, ~25-35% interview odds ( #research #elevenlabs #job-search #application-angle)
+- [[synthesis/mark-experience-framing-repertoire]] — canonical inventory of everything Mark did, the full interests set, and every proven way each experience atom has been reframed across six application packages, keyed to role shape ( #cv #cover-letter #career #framing #repertoire)
 
 ## Journal
 

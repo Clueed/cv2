@@ -76,4 +76,5 @@ Mark flagged in conversation that **quantifying this work is hard**: many initia
 - [[entities/mark-vavulov]]
 - [[entities/stackgini]]
 - [[concepts/founding-gtm-engineer-thesis]]
+- [[synthesis/mark-experience-framing-repertoire]] — synthesis: every proven CV framing of these three tools, by role shape
 - [[projects/cv2/skills/cv-bullet-style]] — how this tooling is framed in CV bullets

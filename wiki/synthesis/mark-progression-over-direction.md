@@ -70,5 +70,6 @@ Under the corrected filter:
 - [[entities/mark-vavulov]]
 - [[entities/stackgini]]
 - [[synthesis/mark-job-direction-map]]
+- [[synthesis/mark-experience-framing-repertoire]] — the same fact base reframed across commercial and off-commercial role shapes
 - [[concepts/founding-gtm-engineer-thesis]]
 - [[skills/ai-powered-sales-tooling]]
