@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-06-15T19:35:27Z*
+*This index is automatically maintained. Last updated: 2026-06-21T00:00:00Z*
 
 ## Projects
 
@@ -29,6 +29,7 @@ title: Wiki Index
 - [[entities/carles-reina]] — ElevenLabs VP Revenue / first GTM hire / employee #4; scaled GTM $0 → $330M ARR in 3 years; "20x base salary" quota rule ( #person #gtm #elevenlabs)
 - [[entities/enpulsion]] — Vienna-Schwechat space-tech scaleup; modular FEEP electric propulsion for SmallSats; founded 2016; NewSpace segment (stub) ( #company #space-tech #deep-tech #vienna)
 - [[entities/fonio]] — Vienna-HQ AI-telephony scaleup for DACH SMBs; 7.5K+ customers, >€5M ARR, ~30% MoM growth, €30M EOY target; CTO Matthias (stub) ( #company #voice-ai #ai-telephony #vienna #smb #dach)
+- [[entities/remote-com]] — Remote (remote.com); global-employment / EOR platform; fully remote, async-first, AI baked into every role's requirements (stub) ( #company #b2b-saas #hr-tech #eor #remote-first)
 
 ## Skills
 
@@ -50,6 +51,8 @@ title: Wiki Index
 - [[references/enpulsion-ceo-associate-vienna-jd]] — ENPULSION CEO Associate / Chief of Staff, Vienna-Schwechat; permanent CEO-orbit execution-partner seat at a space-tech scaleup; most off-commercial role tracked so far ( #job-description #enpulsion #vienna #chief-of-staff #space-tech)
 - [[references/fonio-gtm-engineer-jd]] — fonio GTM Engineer (Remote / Vienna), €65–95K; named GTM Engineer seat at DACH AI-telephony scaleup; cleanest verified Tier 3 GTM-Eng JD tracked; stack-match is verbatim Mark's daily Clay/Apollo/HubSpot/LLM-API tooling ( #job-description #fonio #remote #vienna #gtm-engineer #voice-ai #ai)
 - [[references/anthropic-gtm-strategy-ops-dach-jd]] — Recurring target role: Anthropic GTM Strategy & Ops (Enterprise), DACH, Munich ( #job-description #anthropic)
+- [[references/remote-com-gtm-strategy-jd]] — Remote (remote.com) GTM Strategy, strategic business partner to GTM leaders; fully remote (EMEA/Americas), geo comp $52.6K–$147.95K USD; first "Strategy & Ops / BizOps" JD tracked; far more applyable sibling of the Anthropic GTM-strategy role ( #job-description #remote-com #gtm-strategy #remote #emea #ai)
+- [[references/remote-com-application-2026-06-21]] — Frozen Remote CV snapshot (draft, CV-only) 2026-06-21: Stackgini reduced to 5 strategy-shaped bullets (strategy ownership → AI-native analysis → exec partnering + commercialization → enterprise stakeholder influence → partnerships); AI fluency elevated to bullet 2; CS-pivot/logo-churn removed; single page ( #cv #remote-com #snapshot #gtm-strategy)
 - [[references/anthropic-final-resume-2026-05]] — Frozen snapshot of data.typ as sent to Anthropic, captured before file reset ( #cv #snapshot #anthropic)
 - [[references/mark-prior-roles]] — Luther Law Firm (dual IT+finance role, 2023) and freelance merchandising (2020–2022) ( #cv #work-history)
 - [[references/mark-education]] — CBS Cologne (B.A., 1.5 GPA), JCU Singapore (semester abroad), TU Berlin (CS B.Sc., paused) ( #cv #education)

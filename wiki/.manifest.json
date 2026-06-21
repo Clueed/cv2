@@ -1,7 +1,7 @@
 {
   "version": 1,
   "vault_path": "/home/dev/cv2/wiki",
-  "last_ingest": "2026-06-15T01:00:00Z",
+  "last_ingest": "2026-06-21T00:00:00Z",
   "projects": {
     "cv2": {
       "source_path": "~/.claude/projects/-home-dev-cv2",
@@ -443,6 +443,23 @@
         "hot.md"
       ],
       "headline_finding": "Growth Generalist is the horizontal floater on Luke Harries's Growth umbrella next to four regional/product B2B marketers (NA, UK/I, ElevenCreative, France) plus Head of Performance Marketing. Hiring filter is engineer-operator (Luke = ex-PostHog interim Head of Product / YC HealthTech co-founder / Microsoft Research RL), not marketer-pedigree. Carles Reina (VP Revenue, first GTM hire, employee #4) runs 20x quota rule; scaled $0 → $330M ARR in 3 years; now $500M+. Targeting IPO in 2-3 years. Calibration ~25-35% interview odds; recommendation: apply."
+    },
+    "https://job-boards.greenhouse.io/remotecom/jobs/7645176003": {
+      "source_type": "url",
+      "project": "cv2",
+      "ingested_at": "2026-06-21T00:00:00Z",
+      "source_url": "https://job-boards.greenhouse.io/remotecom/jobs/7645176003",
+      "stub": false,
+      "promotion_status": "cv2",
+      "topic": "Remote (remote.com) GTM Strategy (strategic business partner) job description",
+      "pages_created": [
+        "references/remote-com-gtm-strategy-jd.md",
+        "entities/remote-com.md",
+        "references/remote-com-application-2026-06-21.md"
+      ],
+      "pages_updated": ["index.md", "log.md", "hot.md"],
+      "snapshot_note": "Tailored CV snapshot frozen 2026-06-21 at references/remote-com-application-2026-06-21.md (resume/data.typ sha256 84dd6bed…). 5 strategy-shaped Stackgini bullets; AI fluency elevated; CS-pivot/logo-churn removed; single page. CV-only draft, not submitted. main.typ conditional-heading fix shipped.",
+      "note": "Verbatim JD pasted by user 2026-06-21 from Greenhouse ATS. GTM Strategy seat at Remote (global-employment/EOR platform; fully remote, async, AI baked into every role's requirements). Strategic-business-partner-to-GTM-leaders shape: internal strategy consultant / BizOps embedded in the GTM org. Reports to Head of GTM Strategy; remit (Marketing/Sales/Partnerships) assigned post-hire. 100% remote, EMEA+Americas prioritized. Geo-ranged comp $52.6K–$147.95K USD. Pillar weighting ~35% strategic business partnering / ~25% structured analysis→recommendation / ~20% commercialization support / ~15% cross-functional initiative leadership / ~5% (pervasive) exec influence. Consulting-style loop: recruiter → HM → take-home case study → live case defense to SVP Revenue/Strategy/RevOps + Head of GTM Strategy → VP Growth Marketing or GM Partnerships → bar raiser → employment verification. Calibration ~75% commercial / ~25% off (strategic-analytic mode). FIRST verified JD for Category 8 'Strategy & Ops / BizOps' in synthesis/mark-job-direction-map. Direct sibling of references/anthropic-gtm-strategy-ops-dach-jd but MUCH more applyable: OR-branch qualifier ('strategic role in a high-growth scale-up') is satisfied by Stackgini founding-GTM, sidestepping Anthropic's 10+-years wall; AI-fluency requirement is Mark's edge. Interview-odds estimate ~20-30% to first screen. Biggest risk axis: consulting-case muscle (take-home + live defense) is Mark's least-practiced skill; the case study is the whole game. Stretch: strategist-vs-operator framing gap, no C-level reps at scale, 'extensive experience' reads senior (junior-end applicant), EOR domain zero reps."
     }
   }
 }

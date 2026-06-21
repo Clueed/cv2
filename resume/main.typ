@@ -107,10 +107,14 @@
 == Education
 #render-list(education, render-entry)
 
-== Volunteering
-#render-list(volunteering, render-entry)
+#if volunteering.len() > 0 {
+  [== Volunteering]
+  render-list(volunteering, render-entry)
+}
 
-== Projects
-#render-list(projects, render-project-entry)
+#if projects.len() > 0 {
+  [== Projects]
+  render-list(projects, render-project-entry)
+}
 
 #render-interests()

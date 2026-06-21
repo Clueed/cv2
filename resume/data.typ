@@ -11,11 +11,8 @@
   phone: "+49 157 856 65123",
   interests: (
     "Open-source/weight LLM models",
-    "Developer tooling, experience",
-    "Web development (react, typescript)",
-    "Cryptocurrency, on-chain finance",
+    "Developer tooling and web development (react, typescript)",
     "Literature on scifi, history, and white collar crime",
-    "Fitness and veganism",
     "Graphic and UI design, typography, user experience",
   ),
 )
@@ -28,12 +25,11 @@
     dates: dates-helper(start-date: "Nov 2023", end-date: "Present"),
     subtitle: "Founding GTM Lead",
     bullets: (
-      "Drove 3x YoY growth from $50K to $1M+ ARR as first hire by building the GTM function from scratch: territory and account segmentation, industry-specific playbooks and value propositions, qualification criteria, stage definitions, quotas, variable comp plans, capacity/headcount models, and CRM/reporting infrastructure (HubSpot)",
-      "Hired and ramped the SDR team to 150K pipeline/rep/month; established productivity frameworks and sales process methodology; ran quarterly planning, forecast, and pipeline-review cadences with the CRO and CEO",
-      "Closed 25 enterprise accounts at 30% win rate, $50K ACV, 6-month avg. cycle in complex multi-stakeholder sales processes across financial services (National Bank of Liechtenstein), healthcare (Siemens Healthineers), retail (REWE), manufacturing/life sciences (Danaher, F500), and logistics (DHL)",
-      "Partnered with product and engineering to translate vertical-specific customer needs into roadmap; led the strategic pivot of customer success to a professional-services model, 0% logo churn over two years",
-      "Saved ~2 hrs/SDR/day through custom AI sales tooling (Python/TypeScript on the Anthropic API); built an ABM data layer with automated AI qualification scoring for account prioritization as the primary source of net-new pipeline",
-      "Sourced the company's first U.S. Fortune 500 customer by establishing the partner channel with SAP LeanIX, GBTEC, and Matrix42",
+      "Built the entire GTM function from zero as first hire, growing ARR from $20K to $1M+ (3x YoY): owned go-to-market strategy, market and account segmentation, value propositions, and the operating model end-to-end (forecasting, capacity and headcount planning, CRM/reporting in HubSpot)",
+      "Built AI-native analytics and automation on raw LLM APIs (Python/TypeScript; Anthropic, OpenAI, Gemini), including an ABM data layer with automated AI scoring that segmented and prioritized the European account base and became the primary source of net-new pipeline",
+      "Partnered with the CEO and CRO on quarterly planning, forecasting, and pipeline reviews, analyzing funnel, conversion, and revenue-performance data to surface growth and efficiency opportunities; worked with product and engineering to assess commercial readiness and translate vertical customer needs into roadmap",
+      "Closed 25 enterprise B2B SaaS accounts (30% win rate, $50K ACV, 6-month cycle) in complex multi-stakeholder cycles, influencing C- and VP-level stakeholders across financial services (National Bank of Liechtenstein), healthcare (Siemens Healthineers), retail (REWE), life sciences (Danaher, F500), and logistics (DHL)",
+      "Built the partner channel with SAP LeanIX, GBTEC, and Matrix42, sourcing the company's first U.S. Fortune 500 customer",
     ),
   ),
   (
