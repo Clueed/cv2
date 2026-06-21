@@ -91,6 +91,28 @@ Frozen capture of the Remote-customized CV (`resume/data.typ`) as of **2026-06-2
 
 - **tendenz.vercel.app** (2023) — Financial market analysis tool using z-scores to rank and identify statistically significant price movements of US equities; built and deployed independently, full-stack
 
+## Application answers (free-text)
+
+Free-text answers drafted for the Remote application form. Voice rules held (dense, dry, frontloaded, no em dashes, no self-hedging).
+
+### Q: "Briefly describe a time you identified a revenue growth opportunity through data, gained buy-in from senior leadership, and saw it through to execution. What was the measurable outcome?"
+
+Anchor: the ABM data layer / ICP scoring database (Stackgini bullet 2; [[skills/ai-powered-sales-tooling]]). The answer maps to the question's exact arc (data → senior buy-in → execution → measurable outcome).
+
+> At Stackgini our outbound depended on generic firmographic lists that could not tell us which companies actually fit our product. Our ICP turned on signals no standard dataset carries: the specific enterprise-architecture and IT tooling a company runs, whether the relevant roles were in place, and how their IT function was structured.
+>
+> So I designed a custom data layer to capture exactly that. I licensed a database of every company in Europe, then built automated research and AI enrichment on raw LLM APIs to append our deep, non-public ICP signals to each account and score it. That let us pre-qualify the entire market, rank and segment it, and decide who to approach and with which pitch.
+>
+> I pitched this internally as the foundation of our move to account-based marketing, won buy-in from the CRO and CEO, and then from the sales team who would run on it. We built and deployed it and shifted cold outbound to run exclusively against the scored list.
+>
+> Outcome: the scored account base became the primary source of net-new pipeline. Nearly all subsequent bookings traced back to it, over a period in which ARR grew from $20K to over $1M.
+
+~210 words. Notes for next pass:
+
+- **ARR attribution phrasing is deliberately honest**: "over a period in which ARR grew" rather than "this caused the growth." A sharper variant ("and drove ARR from $20K to over $1M") is available if a more direct causal claim is wanted, supported by Mark's statement that almost all bookings traced to the scored list.
+- **Length**: if the form caps shorter, a ~120-word cut is available.
+- **ICP-signal framing** aligns with the intra-IT buying-center context ([[feedback_stackgini_buying_centers]]): the non-public signals are IT tooling / architecture / roles / IT-function structure, not generic firmographics.
+
 ## Tailoring decisions visible in this snapshot
 
 What this Remote CV does differently from prior snapshots, tuned to a **strategy / BizOps** seat rather than a selling or systems-building seat:
