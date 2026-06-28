@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-06-21T00:00:00Z*
+*This index is automatically maintained. Last updated: 2026-06-22T00:00:00Z*
 
 ## Projects
 
@@ -30,6 +30,8 @@ title: Wiki Index
 - [[entities/enpulsion]] — Vienna-Schwechat space-tech scaleup; modular FEEP electric propulsion for SmallSats; founded 2016; NewSpace segment (stub) ( #company #space-tech #deep-tech #vienna)
 - [[entities/fonio]] — Vienna-HQ AI-telephony scaleup for DACH SMBs; 7.5K+ customers, >€5M ARR, ~30% MoM growth, €30M EOY target; CTO Matthias (stub) ( #company #voice-ai #ai-telephony #vienna #smb #dach)
 - [[entities/remote-com]] — Remote (remote.com); global-employment / EOR platform; fully remote, async-first, AI baked into every role's requirements (stub) ( #company #b2b-saas #hr-tech #eor #remote-first)
+- [[entities/wonderful]] — Wonderful; agentic-AI platform to build/test/deploy/monitor enterprise AI agents across voice/chat/email/back-office; early-stage, founding-team market expansion (stub) ( #company #ai #agentic-ai #enterprise #voice-ai)
+- [[entities/nuitee]] — Nuitée; API-first B2B travel infrastructure ("Stripe for Travel"); profitable pre-raise, $48M Series A led by Accel, 10x since 2022; hubs London/NY/SF/Palma/Casablanca (stub) ( #company #travel-tech #api-first #b2b-saas #plg)
 
 ## Skills
 
@@ -53,6 +55,8 @@ title: Wiki Index
 - [[references/anthropic-gtm-strategy-ops-dach-jd]] — Recurring target role: Anthropic GTM Strategy & Ops (Enterprise), DACH, Munich ( #job-description #anthropic)
 - [[references/remote-com-gtm-strategy-jd]] — Remote (remote.com) GTM Strategy, strategic business partner to GTM leaders; fully remote (EMEA/Americas), geo comp $52.6K–$147.95K USD; first "Strategy & Ops / BizOps" JD tracked; far more applyable sibling of the Anthropic GTM-strategy role ( #job-description #remote-com #gtm-strategy #remote #emea #ai)
 - [[references/remote-com-application-2026-06-21]] — Frozen Remote CV snapshot (draft, CV-only) 2026-06-21: Stackgini reduced to 5 strategy-shaped bullets (strategy ownership → AI-native analysis → exec partnering + commercialization → enterprise stakeholder influence → partnerships); AI fluency elevated to bullet 2; CS-pivot/logo-churn removed; single page ( #cv #remote-com #snapshot #gtm-strategy)
+- [[references/wonderful-gtm-austria-jd]] — Wonderful GTM (enterprise closer), Austria / hybrid; founding-team agentic-AI seat, €500k+ deals, CxO selling, German+English; highest-ACV pure-hunter JD tracked; company-shape twin of fonio but mode-opposite (close the deal vs. build the machine) ( #job-description #wonderful #austria #agentic-ai #enterprise-sales #ai)
+- [[references/nuitee-gtm-engineer-jd]] — Nuitée GTM Engineer (Remote EU / Barcelona); build the product-led-growth machine from a blank page at an API-first travel-infra scaleup ($48M Accel Series A); second verified Tier 3 GTM-Engineer JD, the PLG variant vs fonio's outbound variant ( #job-description #nuitee #remote #barcelona #gtm-engineer #plg #ai)
 - [[references/anthropic-final-resume-2026-05]] — Frozen snapshot of data.typ as sent to Anthropic, captured before file reset ( #cv #snapshot #anthropic)
 - [[references/mark-prior-roles]] — Luther Law Firm (dual IT+finance role, 2023) and freelance merchandising (2020–2022) ( #cv #work-history)
 - [[references/mark-education]] — CBS Cologne (B.A., 1.5 GPA), JCU Singapore (semester abroad), TU Berlin (CS B.Sc., paused) ( #cv #education)
