@@ -256,8 +256,8 @@
         "vscode-server": "vscode-server"
       },
       "locked": {
-        "lastModified": 1782049569,
-        "narHash": "sha256-drT6JXDYNle7lrReLifdoGJ/Vubq+eSamt4HeYqoK4M=",
+        "lastModified": 1782116235,
+        "narHash": "sha256-8+clKd1D7cAlVXRU9T/nuUA15XSE3oqpifThCpWsflg=",
         "path": "/home/claw/nixos",
         "type": "path"
       },
