@@ -25,11 +25,11 @@
     dates: dates-helper(start-date: "Nov 2023", end-date: "Present"),
     subtitle: "Founding GTM Lead",
     bullets: (
-      "Built the entire GTM function and its tooling from a blank page as first hire in an early-stage environment with limited oversight: owned territory and account segmentation, generated net-new pipeline through outbound origination, and ran forecasting and pipeline reviews with the CEO and CRO in HubSpot",
-      "Shipped a Europe-wide ICP scoring database (SQL) on raw LLM APIs (Python/TypeScript; Anthropic, OpenAI, Gemini) that scores tens of thousands of companies from SERP, firmographic, and LinkedIn signal (Fiber.ai) and routes prioritized accounts into HubSpot; it became the sole source of net-new bookings",
-      "Automated outbound end-to-end: an AI account-research agent that cut ~2 hours/SDR/day by turning raw signal into enriched, prioritized prospects, plus an event-driven cold-email engine (Claude Code orchestrating Apollo, Lusha, Instantly, and HubSpot) that generated ~$900K of pipeline at normal-or-better win rate, the output of half an SDR with no human in the loop",
-      "Drove 3x YoY ARR growth from $20K to $1M+ off this machine, closing 25 enterprise accounts at a 30% win rate including the first six-figure deal solo; a two-person closing team reached $1M+ ARR, landing DAX40 and Fortune 500 logos including Siemens, SAP, Danaher, REWE, and DHL",
-      "Hired and ramped the SDR team to 150K pipeline per rep per month on top of the tooling, so reps spent their time on qualified prospects rather than manual research",
+      "Built the entire GTM function from zero as first hire, growing ARR from $20K to $1M+ (3x YoY): owned go-to-market strategy, market and account segmentation, value propositions, and the operating model end-to-end (forecasting, capacity and headcount planning, CRM/reporting in HubSpot)",
+      "Built AI-native analytics and automation on raw LLM APIs (Python/TypeScript; Anthropic, OpenAI, Gemini), including an ABM data layer with automated AI scoring that segmented and prioritized the European account base and became the primary source of net-new pipeline",
+      "Partnered with the CEO and CRO on quarterly planning, forecasting, and pipeline reviews, analyzing funnel, conversion, and revenue-performance data to surface growth and efficiency opportunities; worked with product and engineering to assess commercial readiness and translate vertical customer needs into roadmap",
+      "Closed 25 enterprise B2B SaaS accounts (30% win rate, $50K ACV, 6-month cycle) in complex multi-stakeholder cycles, influencing C- and VP-level stakeholders across financial services (National Bank of Liechtenstein), healthcare (Siemens Healthineers), retail (REWE), life sciences (Danaher, F500), and logistics (DHL)",
+      "Built the partner channel with SAP LeanIX, GBTEC, and Matrix42, sourcing the company's first U.S. Fortune 500 customer",
     ),
   ),
   (
