@@ -6,7 +6,7 @@ tags: [career, gtm, ai, job-search]
 sources:
   - conversation:2026-05-30
 created: 2026-05-30T12:00:00Z
-updated: 2026-05-30T12:00:00Z
+updated: 2026-07-03T00:00:00Z
 summary: >-
   Wide-net typology of roles plausibly fitting Mark's engineer-seller, founding-GTM profile. Spans frontier-lab GTM, founding-AE seats, GTM engineering, PM, DevRel, investor, and founder tracks.
 provenance:
@@ -61,6 +61,7 @@ The [[concepts/founding-gtm-engineer-thesis]] is the load-bearing narrative: an 
 
 - GTM analyst / OIR at AI-focused funds (Air Street, AIX, Cherry, EF, 20VC, La Famiglia, Point Nine, Project A) — the "two-person team to $1M ARR" story matches funds' underwriting patterns ^[inferred]
 - Scout at YC-style accelerators
+- **Corporate development / M&A target scouting** at large-cap operating companies — deal sourcing, target research + evaluation, recommendations to top management. First verified instance: [[references/strabag-target-scouting-analyst-vienna-jd|STRABAG Target Scouting Analyst, Vienna]]. Leans on the finance-education atoms ([[references/mark-education]]) + the ICP-scoring engine as a literal company-screening system, not the operator/selling atoms. Also sits in Category 8 below (corp dev / BizOps).
 
 ### 7. Build his own thing
 
@@ -123,3 +124,4 @@ Filling these gaps is a prerequisite for turning this map into a shortlist.
 - [[references/mark-prior-roles]]
 - [[references/tendenz-project]]
 - [[references/anthropic-gtm-strategy-ops-dach-jd]]
+- [[references/strabag-target-scouting-analyst-vienna-jd]] — first verified corporate-development / M&A-analyst instance (Category 6 × 8)
