@@ -16,12 +16,12 @@ lifecycle: draft
 lifecycle_changed: 2026-05-24
 tier: core
 created: 2026-05-24T00:00:00Z
-updated: 2026-05-24T00:00:00Z
+updated: 2026-07-04T00:00:00Z
 ---
 
 # Mark Vavulov
 
-Berlin-based GTM operator and engineer. First non-founder hire at [[entities/stackgini|Stackgini]] (Nov 2023–present), where he built the entire go-to-market function from zero and grew ARR from ~$50K to just over $1M.
+Berlin-based GTM operator and engineer. First non-founder hire at [[entities/stackgini|Stackgini]] (Nov 2023–present), where he built the entire go-to-market function from zero and grew ARR from ~$20K to $1.25M.
 
 Background: International Business B.A. at CBS Cologne (90% GPA, IFRS R&D capitalization thesis). Pivoted to computer science after a semester abroad in Singapore. Enrolled in TU Berlin CS B.Sc. (Oct 2023), paused to join Stackgini full-time; studies on hold, not terminated. Also active in TU Berlin's Center of Entrepreneurship. See [[references/mark-education]] for the full academic history.
 
@@ -30,7 +30,7 @@ Prior to Stackgini: dual IT + financial-operations role at [[references/mark-pri
 ## Operating profile
 
 - Hands-on individual contributor throughout entire Stackgini tenure — full-time SDR first, then full-time AE (transition late 2024 / early 2025). Closed 25 enterprise accounts at 30% win rate, $50K ACV, 6-month average cycle.
-- Anchor customers: DHL, Siemens Healthineers, REWE, Danaher (F500, US, sourced via SAP LeanIX partnership), HAYS, National Bank of Liechtenstein.
+- Anchor customers: see the full customer roster in [[entities/stackgini]] (do not duplicate the list here). Danaher is the F500 US customer sourced via the SAP LeanIX partnership.
 - Most deals closed as a duo with a co-founder; first-ever six-figure deal closed solo, end-to-end. ^[inferred] (synthesized from multiple session statements)
 - Hired and ramped 3 SDRs in the last 6 months; 2 remain, both hitting 150K pipeline/rep/month.
 - Engineering background is the load-bearing enabler — see [[concepts/founding-gtm-engineer-thesis|founding-gtm-engineer thesis]] and [[skills/ai-powered-sales-tooling|AI-powered sales tooling]].
@@ -64,6 +64,7 @@ CV-tailoring application worked example: [[references/allocator-one-investment-m
 
 - [[references/anthropic-gtm-strategy-ops-dach-jd|Anthropic — GTM Strategy & Operations (Enterprise), DACH]] (Munich). Stretch role: JD requires 10+ years; Mark has ~2.5. Reframed at least 3 separate times in May 2026. ^[inferred]
 - [[references/allocator-one-investment-manager-vienna-jd|Allocator One — Investment Manager, Vienna]]. Pivot-shape role into IR / fund ops; €80K base. CV tailored 2026-05-31 leaning hard on Financial Management specialization, quantitative IFRS thesis, Luther HGB hands-on Excel, and Stackgini fundraising support. ^[inferred] (tailored; submission not yet confirmed)
+- [[references/strabag-target-scouting-analyst-vienna-jd|STRABAG — Analyst, Target Scouting (Corporate Development), Vienna]]. **Applied 2026-07-04.** Corp-dev / M&A deal-sourcing seat; CV tailored to the corporate-innovation-adoption angle (new category brought to market, how large enterprises evaluate/adopt emerging tech, named roster incl. STRABAG), with Financial Management + IFRS thesis as the analytical credential. Expected salary €60k gross/year.
 
 ## Sources
 

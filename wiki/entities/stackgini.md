@@ -9,7 +9,7 @@ relationships:
 sources:
   - resume-context.md
   - ~/.claude/projects/-home-dev-cv2/memory/feedback_stackgini_buying_centers.md
-summary: B2B SaaS for agentic enterprise IT decision-making. Berlin-based, ~10 FTEs, pre-seed raised 2024, currently raising seed, $1M+ ARR.
+summary: B2B SaaS for agentic enterprise IT decision-making. Berlin-based, ~10 FTEs, pre-seed raised 2024, currently raising seed, $1.25M ARR.
 provenance:
   extracted: 0.90
   inferred: 0.10
@@ -19,7 +19,7 @@ lifecycle: draft
 lifecycle_changed: 2026-05-24
 tier: core
 created: 2026-05-24T00:00:00Z
-updated: 2026-06-13T00:00:00Z
+updated: 2026-07-04T00:00:00Z
 ---
 
 # Stackgini
@@ -30,7 +30,7 @@ B2B SaaS for **agentic enterprise IT decision-making** — i.e., the product hel
 
 - ~10 full-time employees, started bootstrapped in a co-working space
 - **VC-backed.** Pre-seed raised 2024; seed round closed with international investors (closed by 2026-05). ^[inferred — Mark stated the seed "just closed" in the 2026-05-31 conversation]
-- ARR: just over $1M; was ~$20K with 1 customer when Mark joined Nov 2023 (per Mark 2026-06-09; earlier wiki estimate of $50K was wrong)
+- ARR: $1.25M (per Mark 2026-07-04); was ~$20K with 1 customer when Mark joined Nov 2023 (per Mark 2026-06-09; earlier wiki estimate of $50K was wrong)
 - 35 total customers today (per Mark 2026-06-09); 25 enterprise accounts closed personally by Mark at 30% win rate, $50K ACV, ~6-month average sales cycle
 - Geography: primarily DACH, significant European presence, first US customer (Danaher) closed in 2025 via SAP LeanIX partnership
 
@@ -94,13 +94,13 @@ Closed-customer roster (as of 2026-06-13):
 - Danaher (F500 manufacturing/life sciences; first US customer, via SAP LeanIX)
 - National Bank of Liechtenstein (financial services)
 
-Anchor customers cited externally (CV, pitches): DHL, Siemens Healthineers, REWE, Danaher, HAYS, National Bank of Liechtenstein.
+For external citation (CV, pitches), pick the most recognizable names from the roster above; the roster is the single source of truth for customer names. Note: **SAP is both a direct customer (SAP SE) and a technology partner (SAP LeanIX)**, and **Siemens AG (parent) and Siemens Healthineers AG are separate customers.**
 
 ## Partnerships
 
 Technology partnerships established by Mark from scratch:
 
-- **SAP LeanIX** — sourced Danaher (the company's first US, six-figure deal)
+- **SAP LeanIX** — sourced Danaher (the company's first US, six-figure deal). SAP is also a direct customer (SAP SE), so it counts on both the customer and partner rosters.
 - **Matrix42**
 - **GBTEC**
 

@@ -26,7 +26,7 @@ lifecycle: draft
 lifecycle_changed: 2026-07-03
 tier: supporting
 created: 2026-07-03T00:00:00Z
-updated: 2026-07-03T00:00:00Z
+updated: 2026-07-04T00:00:00Z
 ---
 
 # STRABAG — Analyst, Target Scouting (Corporate Development), Vienna
@@ -38,6 +38,7 @@ updated: 2026-07-03T00:00:00Z
 **Team**: Scouting & Cooperations, within STRABAG Unternehmensentwicklung (Corporate Development); specifically the **Target Scouting** sub-team, feeding **deal sourcing for M&A processes**
 **Comp**: Not disclosed in the clipping (Austrian collective-agreement floor likely on the ATS)
 **Application**: Responses managed off LinkedIn; ~61 clicked apply (52% senior-level candidates, 15% MBA, 25% MSc)
+**Status**: **Applied 2026-07-04.** CV tailored to the corporate-innovation-adoption angle (new category brought to market → how large enterprises evaluate/adopt emerging tech → named roster incl. STRABAG); Financial Management + quantitative IFRS thesis carried as the analytical credential; German/English surfaced as a Languages line. Expected salary stated: **€60k gross/year (14x), Bereitschaft zur Überzahlung.**
 **Source**: LinkedIn job clipping pasted into the [[projects/cv2/cv2|cv2]] session on 2026-07-03 (posting ~1 month old at capture)
 
 This page captures the JD verbatim (German, as posted) and analyzes it against Mark's filter ([[synthesis/mark-progression-over-direction]]). It is the **first corporate-development / M&A deal-sourcing seat** tracked in the wiki — a finance/analytical off-commercial shape distinct from every commercial GTM and CoS seat logged so far.
