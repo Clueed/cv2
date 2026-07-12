@@ -27,6 +27,8 @@
     text(8pt, fill: black.lighten(35%), items.pos().filter(x => x != none).join("\n")),
   )
 
+  v(1fr)
+
   grid(
     columns: (1fr, auto, auto),
     gutter: 1em,
@@ -101,20 +103,29 @@
   phone: personal-info.phone,
 )
 
+#v(1fr)
+
 == Work Experience
 #render-list(work-experience, render-entry)
+
+#v(1fr)
 
 == Education
 #render-list(education, render-entry)
 
 #if volunteering.len() > 0 {
+  v(1fr)
   [== Volunteering]
   render-list(volunteering, render-entry)
 }
 
 #if projects.len() > 0 {
+  v(1fr)
   [== Projects]
   render-list(projects, render-project-entry)
 }
 
-#render-interests()
+#if "interests" in personal-info {
+  v(1fr)
+  render-interests()
+}
