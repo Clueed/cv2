@@ -16,7 +16,7 @@ lifecycle: draft
 lifecycle_changed: 2026-05-24
 tier: core
 created: 2026-05-24T00:00:00Z
-updated: 2026-07-04T00:00:00Z
+updated: 2026-07-12T00:00:00Z
 ---
 
 # Mark Vavulov
@@ -66,6 +66,7 @@ CV-tailoring application worked example: [[references/allocator-one-investment-m
 - [[references/allocator-one-investment-manager-vienna-jd|Allocator One — Investment Manager, Vienna]]. Pivot-shape role into IR / fund ops; €80K base. CV tailored 2026-05-31 leaning hard on Financial Management specialization, quantitative IFRS thesis, Luther HGB hands-on Excel, and Stackgini fundraising support. ^[inferred] (tailored; submission not yet confirmed)
 - [[references/strabag-target-scouting-analyst-vienna-jd|STRABAG — Analyst, Target Scouting (Corporate Development), Vienna]]. **Applied 2026-07-04.** Corp-dev / M&A deal-sourcing seat; CV tailored to the corporate-innovation-adoption angle (new category brought to market, how large enterprises evaluate/adopt emerging tech, named roster incl. STRABAG), with Financial Management + IFRS thesis as the analytical credential. Expected salary €60k gross/year.
 - [[references/lago-growth-chief-of-staff-jd|Lago — Growth Chief of Staff, Remote Europe]]. JD captured 2026-07-08 (not yet tailored/applied). Founder's-Office GTM/growth-ops owner seat reporting to the CEO at a YC/FirstMark-backed open-source billing/usage-based-pricing platform. **Closest structural match tracked to Mark's actual Stackgini work** (build the GTM function AND its tooling from a blank page); builder-not-deck, AI-native (API/webhook/MCP literacy required). Binding gate is the 5+ years floor vs. ~2.5; ~50-60% commercial. ^[inferred]
+- [[references/nxai-revenue-ops-business-development-linz-jd|NXAI — Revenue Operations & Business Development Manager, Linz]]. **Submitted 2026-07-12.** Free-text answers frozen at [[references/nxai-application-answers]]; CV snapshot `resume/data.typ` sha256 `ac34b1f0…` (no cover letter). RevOps + BizDev "operational backbone of the Sales Team" seat reporting to the CRO at a Linz-based European xLSTM foundation-model company ([[entities/nxai]]; TiRex, sovereign on-prem AI). **Near-verbatim match to Mark's daily stack** (HubSpot CRM + Europe-wide ICP scoring engine + cold-email/sequence infra + AI-as-daily-instrument). Closest experience floor cleared yet (3-5yr vs ~2.5, just under); negotiation-level German is a hard gate he clears. ~60-70% commercial; ops-ward of a closing seat. Odds ~30-40% to first screen. Open items if invited: on-site-Linz vs Berlin, proposals/pricing/deal-desk craft (thinner half), total comp read. ^[inferred]
 
 ## Sources
 
