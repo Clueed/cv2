@@ -73,7 +73,7 @@ The [[concepts/founding-gtm-engineer-thesis]] is the load-bearing narrative: an 
 
 - **Enterprise AE at agentic-IT adjacents** to [[entities/stackgini|Stackgini]]'s space — LeanIX/SAP, Ardoq, MEGA, Avolution (sold with or against them)
 - **Technical CS / post-sales** at AI platforms — F500 implementation lead
-- **Strategy & Ops / BizOps** at scaled AI companies — the IFRS thesis background ([[references/mark-education]]) plus operational depth is unusual
+- **Strategy & Ops / BizOps / Growth-Ops / Founder's Office** at scaled AI companies — the IFRS thesis background ([[references/mark-education]]) plus operational depth is unusual. First verified instance of the Founder's-Office / Growth-Chief-of-Staff variant: [[references/lago-growth-chief-of-staff-jd|Lago Growth Chief of Staff, Remote Europe]] — a builder-not-coordinator seat that hits Categories 2, 3 and 8 at once, the closest structural match yet to Mark's actual from-zero GTM build.
 - **Growth engineer** at consumer-AI or prosumer-AI companies
 - **Vertical AI** in industries where reps already exist: enterprise IT, legal tech ([[references/mark-prior-roles|Luther]]), retail/CPG ops (freelance merchandising), fintech/equities ([[references/tendenz-project|tendenz]])
 
