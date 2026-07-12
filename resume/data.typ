@@ -29,7 +29,7 @@
       "Operated in a dual role: full-cycle account executive (outbound origination through close) and GTM Founders Associate owning GTM engineering, RevOps, and the SDR team and outbound motion",
       "Defined and brought to market a new software category, IT Demand Management, by selling the vision and evangelizing the category through thought leadership, industry conferences, and speaking engagements",
       "Established the partner channel with SAP LeanIX, GBTEC, and Matrix42, sourcing the company's first U.S. Fortune 500 customer",
-      "Shipped custom-developed agentic tooling that saved ~2 hours per GTM FTE per day, plus a Europe-wide account data layer with proprietary signaling that drove 70% of net-new pipeline over the past year",
+      "Shipped custom-developed agentic tooling built around HubSpot that saved ~2 hours per GTM FTE per day, plus a Europe-wide ICP scoring and account-data layer with proprietary signaling that drove 70% of net-new pipeline over the past year",
     ),
   ),
   (
