@@ -23,13 +23,13 @@
     location: "Berlin, Germany",
     description: "VC-backed B2B SaaS for agentic enterprise IT decision-making",
     dates: dates-helper(start-date: "Nov 2023", end-date: "Present"),
-    subtitle: "Founding GTM Lead",
+    subtitle: "Founding GTM",
     bullets: (
-      "Built the entire GTM function from zero as first hire, growing ARR from $20K to $1M+ (3x YoY): owned go-to-market strategy, market and account segmentation, value propositions, and the operating model end-to-end (forecasting, capacity and headcount planning, CRM/reporting in HubSpot)",
-      "Built AI-native analytics and automation on raw LLM APIs (Python/TypeScript; Anthropic, OpenAI, Gemini), including an ABM data layer with automated AI scoring that segmented and prioritized the European account base and became the primary source of net-new pipeline",
-      "Partnered with the CEO and CRO on quarterly planning, forecasting, and pipeline reviews, analyzing funnel, conversion, and revenue-performance data to surface growth and efficiency opportunities; worked with product and engineering to assess commercial readiness and translate vertical customer needs into roadmap",
-      "Closed 25 enterprise B2B SaaS accounts (30% win rate, $50K ACV, 6-month cycle) in complex multi-stakeholder cycles, influencing C- and VP-level stakeholders across financial services (National Bank of Liechtenstein), healthcare (Siemens Healthineers), retail (REWE), life sciences (Danaher, F500), and logistics (DHL)",
-      "Built the partner channel with SAP LeanIX, GBTEC, and Matrix42, sourcing the company's first U.S. Fortune 500 customer",
+      "Built the entire GTM function from zero as first hire, growing ARR from $20K to $1.25M+ (3x YoY) by winning 35 enterprise customers including SAP, Siemens, DHL and Danaher (F500)",
+      "Operated in a dual role: full-cycle account executive (outbound origination through close) and GTM Founders Associate owning GTM engineering, RevOps, and the SDR team and outbound motion",
+      "Defined and brought to market a new software category, IT Demand Management, by selling the vision and evangelizing the category through thought leadership, industry conferences, and speaking engagements",
+      "Established the partner channel with SAP LeanIX, GBTEC, and Matrix42, sourcing the company's first U.S. Fortune 500 customer",
+      "Shipped custom-developed agentic tooling that saved ~2 hours per GTM FTE per day, plus a Europe-wide account data layer with proprietary signaling that drove 70% of net-new pipeline over the past year",
     ),
   ),
   (
@@ -41,12 +41,16 @@
       (
         dates: dates-helper(start-date: "May 2023", end-date: "Sep 2023"),
         subtitle: "IT Project Management Working Student",
-        bullets: (),
+        bullets: (
+          "Drove a company-wide contract database rollout and laid the groundwork for an ISO 27001-based information security management system (ISMS)",
+        ),
       ),
       (
         dates: dates-helper(start-date: "Mar 2023", end-date: "Apr 2023"),
         subtitle: "Financial Operations & Controlling Internship",
-        bullets: (),
+        bullets: (
+          "Hands-on Excel work on annual financial statements under German GAAP (HGB) across the domestic entity and international subsidiaries; schedules, reconciliations, journals, and audit preparation; reported to the CFO",
+        ),
       ),
     ),
   ),
