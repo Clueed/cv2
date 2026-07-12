@@ -1,4 +1,4 @@
-#import "data.typ": personal-info, work-experience, education, volunteering, projects
+#import "data.typ": education, personal-info, projects, volunteering, work-experience
 
 #let resume(
   author: "",
@@ -15,7 +15,7 @@
   set par(justify: false, spacing: 0.6em)
 
   show heading.where(level: 2): it => [
-    #pad(bottom: -10pt,  smallcaps(it.body))
+    #pad(bottom: -10pt, smallcaps(it.body))
     #line(length: 100%, stroke: 1pt)
   ]
 
@@ -23,9 +23,11 @@
     if link-type != "" { link(link-type + value)[#value] } else { value }
   }
 
-  let contact-block(..items) = box(baseline: 0pt,
-    text(8pt, fill: black.lighten(35%), items.pos().filter(x => x != none).join("\n")),
-  )
+  let contact-block(..items) = box(baseline: 0pt, text(
+    8pt,
+    fill: black.lighten(35%),
+    items.pos().filter(x => x != none).join("\n"),
+  ))
 
   v(1fr)
 
@@ -49,8 +51,7 @@
 #let row(left, right) = grid(
   columns: (1fr, auto),
   align: (start, end),
-  left,
-  text(10pt, fill: black.lighten(35%), right),
+  left, text(10pt, fill: black.lighten(35%), right),
 )
 
 #let render-entry(entry) = {
