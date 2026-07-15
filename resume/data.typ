@@ -25,17 +25,15 @@
     dates: dates-helper(start-date: "Nov 2023", end-date: "Present"),
     subtitle: "Founding GTM",
     bullets: (
-      "Built the entire GTM function from zero as first hire, growing ARR from $20K to $1.25M+ (3x YoY) by winning 35 enterprise customers including SAP, Siemens, DHL and Danaher (F500)",
-      "Operated in a dual role: full-cycle account executive (outbound origination through close) and GTM Founders Associate owning GTM engineering, RevOps, and the SDR team and outbound motion",
-      "Defined and brought to market a new software category, IT Demand Management, by selling the vision and evangelizing the category through thought leadership, industry conferences, and speaking engagements",
-      "Established the partner channel with SAP LeanIX, GBTEC, and Matrix42, sourcing the company's first U.S. Fortune 500 customer",
-      "Shipped custom-developed agentic tooling built around HubSpot that saved ~2 hours per GTM FTE per day, plus a Europe-wide ICP scoring and account-data layer with proprietary signaling that drove 70% of net-new pipeline over the past year",
+      "Built the entire GTM function from zero as first hire, growing ARR from $50K to $1.25M+ (3x YoY) by winning 35 enterprise customers including SAP, Siemens, DHL, and Danaher (F500)",
+      "Operated in a dual role: full-cycle Account Executive and GTM Founder's Associate owning GTM engineering, RevOps, and the SDR team's outbound motion",
+      "Designed a custom sales process for category creation, plus the onboarding plan and playbooks that ramped 3 SDRs and 1 AE",
+      "Introduced HubSpot and shipped a Europe-wide ICP and account-data layer that drove 70% of net-new pipeline over the past year; saved ~1 hour/day per SDR through agentic prospecting automations",
     ),
   ),
   (
     title: "Luther Law Firm",
     location: "Cologne, Germany",
-    description: "One of the largest law firms in DACH",
     dates: none,
     children: (
       (
@@ -49,7 +47,7 @@
         dates: dates-helper(start-date: "Mar 2023", end-date: "Apr 2023"),
         subtitle: "Financial Operations & Controlling Internship",
         bullets: (
-          "Hands-on Excel work on annual financial statements under German GAAP (HGB) across the domestic entity and international subsidiaries; schedules, reconciliations, journals, and audit preparation; reported to the CFO",
+          "Hands-on Excel work on annual financial statements under German GAAP (HGB) across the domestic entity and international subsidiaries; schedules, reconciliations, journals, and audit preparation; reported to Head of Finance",
         ),
       ),
     ),
@@ -81,7 +79,7 @@
     dates: dates-helper(start-date: "Jul 2022", end-date: "Dec 2022"),
     subtitle: "Semester Abroad",
     bullets: (
-      "Built a full-stack multiplayer web game in a SCRUM team during an advanced software engineering course triggering a pivot into computer science",
+      "Built a full-stack multiplayer web game in a SCRUM team during an advanced software engineering course, triggering a pivot into computer science",
     ),
   ),
 )
@@ -93,7 +91,7 @@
     dates: dates-helper(start-date: "2025", end-date: "2025"),
     subtitle: "After-school Program Volunteer",
     bullets: (
-      "Homework support and group supervision for primary-school children from migrant backgrounds in the after-school program",
+      "Homework support and group supervision for primary-school children from migrant backgrounds",
     ),
   ),
 )
