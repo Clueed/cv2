@@ -6,7 +6,7 @@ tags: [career, gtm, ai, job-search]
 sources:
   - conversation:2026-05-30
 created: 2026-05-30T12:00:00Z
-updated: 2026-07-03T00:00:00Z
+updated: 2026-07-15T00:00:00Z
 summary: >-
   Wide-net typology of roles plausibly fitting Mark's engineer-seller, founding-GTM profile. Spans frontier-lab GTM, founding-AE seats, GTM engineering, PM, DevRel, investor, and founder tracks.
 provenance:
@@ -74,6 +74,7 @@ The [[concepts/founding-gtm-engineer-thesis]] is the load-bearing narrative: an 
 - **Enterprise AE at agentic-IT adjacents** to [[entities/stackgini|Stackgini]]'s space — LeanIX/SAP, Ardoq, MEGA, Avolution (sold with or against them)
 - **Technical CS / post-sales** at AI platforms — F500 implementation lead
 - **Strategy & Ops / BizOps / Growth-Ops / Founder's Office** at scaled AI companies — the IFRS thesis background ([[references/mark-education]]) plus operational depth is unusual. First verified instance of the Founder's-Office / Growth-Chief-of-Staff variant: [[references/lago-growth-chief-of-staff-jd|Lago Growth Chief of Staff, Remote Europe]] — a builder-not-coordinator seat that hits Categories 2, 3 and 8 at once, the closest structural match yet to Mark's actual from-zero GTM build.
+- **Founder's Associate / Chief of Staff** (CEO-orbit execution partner, off-commercial) is now a **recurring, verified sub-pattern** rather than an open monitoring tier: [[references/enpulsion-ceo-associate-vienna-jd|ENPULSION CEO Associate, Vienna]] (space-tech, deck-heavy yellow-flag shape) and [[references/biolyz-founders-associate-jd|Biolyz Founder's Associate]] (elite-sport biomarker scaleup, strategy/business-case green-flag shape) are the two instances. Both lean on the finance-education + fundraising-support + cross-functional-coordination atoms, not the engineer-seller commercial atoms; both carry a real domain gap (Biolyz's is partly bridged by Mark's genuine fitness interest). The 2–3yr experience floor on the Biolyz seat is the cleanest off-commercial floor-match tracked.
 - **Growth engineer** at consumer-AI or prosumer-AI companies
 - **Vertical AI** in industries where reps already exist: enterprise IT, legal tech ([[references/mark-prior-roles|Luther]]), retail/CPG ops (freelance merchandising), fintech/equities ([[references/tendenz-project|tendenz]])
 
@@ -125,3 +126,4 @@ Filling these gaps is a prerequisite for turning this map into a shortlist.
 - [[references/tendenz-project]]
 - [[references/anthropic-gtm-strategy-ops-dach-jd]]
 - [[references/strabag-target-scouting-analyst-vienna-jd]] — first verified corporate-development / M&A-analyst instance (Category 6 × 8)
+- [[references/enpulsion-ceo-associate-vienna-jd]] · [[references/biolyz-founders-associate-jd]] — the two verified Founder's-Associate / Chief-of-Staff instances (Category 8)

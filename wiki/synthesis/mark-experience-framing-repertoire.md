@@ -18,7 +18,7 @@ sources:
   - "[[synthesis/mark-job-direction-map]]"
   - "[[synthesis/mark-progression-over-direction]]"
 created: 2026-06-21T00:00:00Z
-updated: 2026-06-21T00:00:00Z
+updated: 2026-07-15T00:00:00Z
 summary: "Canonical inventory of everything Mark did at Stackgini (and before), the full interests set, and every proven way each experience atom has been reframed across six application packages, keyed to role shape."
 provenance:
   extracted: 0.6
@@ -148,6 +148,7 @@ The interests line is itself a tailoring surface. Full superset seen across snap
 - **Open-source / OSS / developer tooling** leads for developer-first audiences (Vendure, ElevenLabs).
 - **AI-native GTM systems** leads for the GTM-Engineer seat (fonio), mirroring the JD's automation pillar.
 - **"Voice and audio AI" was considered and rejected** for ElevenLabs — too overtly tailored; the voice-AI signal earned its place in the Q4 answer instead.
+- **Fitness / veganism flips from ballast to load-bearing** for sports-science seats — historically the interests line's throwaway tail, it becomes a genuine why-domain bridge for the [[references/biolyz-founders-associate-jd|Biolyz Founder's Associate]] seat (athlete stress/recovery/metabolism biomarkers). This is the first tracked role where the interests line is a real differentiating asset, not noise — and, critically, an *honest* bridge that avoids fabricating sports-science/lab domain reps.
 
 ---
 
@@ -235,6 +236,7 @@ The cross-cutting payload. For each experience atom, the variants that have actu
 - **Vendure**: "the design end of GTM" (ship-once-keeps-working output) + OSS-commercial incentive thesis; "I am a passionate developer myself."
 - **ElevenLabs (Q1–Q4)**: operating-culture pull (impact over titles); category-creation as the un-buyable thing; honest uncertainty ("we could fall apart in three years"); real ElevenLabs personal-use story (v3 expressiveness).
 - **ENPULSION** (not yet drafted): founding-GTM-as-internal-CoS analogue; productization parallel to modular FEEP; honest why-CoS / why-space.
+- **Biolyz** (not yet drafted): the **second Founder's-Associate/CoS target** — reuses the ENPULSION CoS framing set (execution-translation, productization, fundraising-support, exec deck-craft) but leads on the JD's tri-lateral "strategy + finance + operations" business-acumen line and lands why-Biolyz on the genuine fitness-interest bridge (not a claim of sports-science/lab expertise). Cleaner experience-floor match than ENPULSION (2–3yr founding-startup bucket).
 - **fonio** (not yet drafted): "the GTM Engineer is the title Mark already operates under without holding"; DACH-SMB voice-AI thesis; tool-stack overlap → day-one productivity.
 
 ---

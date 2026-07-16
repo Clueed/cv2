@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-07-12T00:00:00Z*
+*This index is automatically maintained. Last updated: 2026-07-15T00:00:00Z*
 
 ## Projects
 
@@ -35,6 +35,7 @@ title: Wiki Index
 - [[entities/strabag]] — STRABAG SE; Vienna-HQ European construction/infrastructure group (~74–89K employees); best results 2025, klimaneutral-by-2040; the Corporate Development / Target Scouting employer behind the M&A analyst JD (stub) ( #company #construction #infrastructure #corporate-development #vienna)
 - [[entities/lago]] — Lago; leading open-source billing / usage-based-pricing platform; YC + FirstMark backed ($22M+), ~10K GitHub stars; Mistral/Groq/CoreWeave/PayPal/Synthesia customers; the Remote-Europe employer behind the Growth Chief of Staff JD (stub) ( #company #b2b-saas #open-source #billing #dev-tools #usage-based-pricing #remote)
 - [[entities/nxai]] — NXAI GmbH; Linz-based European AI company commercializing next-gen xLSTM architectures as a sovereign, on-prem alternative to US hyperscalers; flagship TiRex zero-shot time-series foundation model (claimed 50x more efficient than transformers); selling into Industry 4.0 / Robotics / Energy; the employer behind the RevOps & BizDev Manager JD (stub) ( #company #ai #deep-tech #xlstm #linz #sovereign-ai)
+- [[entities/biolyz]] — Biolyz; full-stack saliva-based biomarker testing for elite sport; cotton-swab saliva → mass spectrometry within 48h across 60+ biomarkers (stress/recovery/metabolism/inflammation); 2.5M+ biomarkers tested across CL/Bundesliga/PL/Ligue 1 teams; the employer behind the Founder's Associate JD (stub) ( #company #health-tech #biotech #sports-science #diagnostics)
 
 ## Skills
 
@@ -64,6 +65,8 @@ title: Wiki Index
 - [[references/nxai-revenue-ops-business-development-linz-jd]] — NXAI Revenue Operations & Business Development Manager (Linz, on-site/hybrid); the "operational backbone of the Sales Team" behind a CRO — RevOps + HubSpot + ICP-based lead gen (Industry 4.0/Robotics/Energy) + outreach/content + proposal/PoC support; a near-verbatim match to Mark's HubSpot + ICP-scoring + cold-email stack; 3-5yr floor (closest cleared yet vs ~2.5); negotiation-level German a hard gate he clears; ~60-70% commercial ( #job-description #nxai #linz #austria #revops #business-development #gtm-engineer #ai)
 - [[references/lago-growth-chief-of-staff-jd]] — Lago Growth Chief of Staff (Remote Europe); Founder's-Office GTM/growth-ops owner seat reporting to the CEO, "turn founder priorities into shipped self-improving systems"; builder-not-deck, explicitly AI-native (API/webhook/MCP literacy non-negotiable); closest structural match yet to Mark's actual from-zero Stackgini build; YC/FirstMark-backed OSS billing platform; ~50-60% commercial ( #job-description #lago #remote #open-source #billing #dev-tools #growth-ops #chief-of-staff #gtm-engineer #ai)
 - [[references/nxai-application-answers]] — Frozen NXAI application (submitted 2026-07-12): three free-text form answers (two GTM systems + category-creation ICP complexity / product-sales feature-use bridge / inbox-zero prioritization under coinciding deadlines) + CV snapshot sha256 ac34b1f0… ( #cv #nxai #snapshot #revops #business-development )
+- [[references/biolyz-founders-associate-jd]] — Biolyz Founder's Associate (JD + analysis); CEO-orbit execution partner at an elite-sport saliva-biomarker scaleup; second verified Founder's-Associate/CoS JD (after ENPULSION), with a heavier strategy/business-case pillar (green-flag GM-in-training shape) and a clean 2–3yr experience floor; ~10-15% commercial; domain gap partly bridged by Mark's genuine fitness interest ( #job-description #biolyz #founders-associate #chief-of-staff #sports-science #biotech)
+- [[references/biolyz-application-2026-07-16]] — Frozen Biolyz CV snapshot (applied 2026-07-16): submitted with the UNTAILORED general founding-GTM CV (sha256 124faf2f…); documents the review gaps left unaddressed at submission (fundraising/board-materials rep not surfaced, ICP engine framed as revenue not market screening, partner-channel + SQL absent); fitness interest carried as the honest why-sports-biotech bridge ( #cv #biolyz #snapshot #founders-associate #chief-of-staff)
 - [[references/nuitee-application-2026-06-28]] — Frozen Nuitée application package (draft) 2026-06-28: tailored CV (5 builder-shaped Stackgini bullets, "built the GTM function AND its tooling from a blank page") + cover letter to Gian Caprini running a four-beat thesis (API-as-durable-layer → blank-page-is-the-draw → building-vs-operating balance → AI-as-engineering); first package with a cover letter since Allocator One / Vendure ( #cv #cover-letter #nuitee #snapshot #gtm-engineer #plg)
 - [[references/anthropic-final-resume-2026-05]] — Frozen snapshot of data.typ as sent to Anthropic, captured before file reset ( #cv #snapshot #anthropic)
 - [[references/mark-prior-roles]] — Luther Law Firm (dual IT+finance role, 2023) and freelance merchandising (2020–2022) ( #cv #work-history)
