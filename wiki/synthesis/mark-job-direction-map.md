@@ -24,7 +24,7 @@ A deliberately wide enumeration of role shapes that fit [[entities/mark-vavulov|
 
 ## Context
 
-Mark's profile sits at an unusual intersection: ~2.5 years as founding GTM operator at [[entities/stackgini|Stackgini]] (sub-$50K → $1M+ ARR), three shipped AI sales systems built on raw LLM APIs ([[skills/ai-powered-sales-tooling]]), strong anti-lowcode stance, quantitative business background plus paused CS studies ([[references/mark-education]]), and enterprise-deal reps with F500 anchors (DHL, Siemens Healthineers, Danaher, REWE, HAYS, National Bank of Liechtenstein). He is currently chasing stretch roles at frontier labs ([[references/anthropic-gtm-strategy-ops-dach-jd]]).
+Mark's profile sits at an unusual intersection: ~2.5 years as founding GTM operator at [[entities/stackgini|Stackgini]] (~$20K → $1.5M ARR), three shipped AI sales systems built on raw LLM APIs ([[skills/ai-powered-sales-tooling]]), strong anti-lowcode stance, quantitative business background plus paused CS studies ([[references/mark-education]]), and enterprise-deal reps with F500 anchors (DHL, Siemens Healthineers, Danaher, REWE, HAYS, National Bank of Liechtenstein). He is currently chasing stretch roles at frontier labs ([[references/anthropic-gtm-strategy-ops-dach-jd]]).
 
 The [[concepts/founding-gtm-engineer-thesis]] is the load-bearing narrative: an engineer-seller in a founding GTM seat compounds because they build leverage rather than buy or hire for it. The role space below is organized around where that thesis remains a hiring advantage. ^[inferred]
 

@@ -11,6 +11,7 @@
   phone: "+49 157 856 65123",
   interests: (
     "Open-source/weight LLM models",
+    "Fitness and veganism",
     "Developer tooling and web development (react, typescript)",
     "Literature on scifi, history, and white collar crime",
     "Graphic and UI design, typography, user experience",
@@ -25,10 +26,10 @@
     dates: dates-helper(start-date: "Nov 2023", end-date: "Present"),
     subtitle: "Founding GTM",
     bullets: (
-      "Built the entire GTM function from zero as first hire, growing ARR from $50K to $1.25M+ (3x YoY) by winning 35 enterprise customers including SAP, Siemens, DHL, and Danaher (F500)",
-      "Operated in a dual role: full-cycle Account Executive and GTM Founder's Associate owning GTM engineering, RevOps, and the SDR team's outbound motion",
-      "Designed a custom sales process for category creation, plus the onboarding plan and playbooks that ramped 3 SDRs and 1 AE",
-      "Introduced HubSpot and shipped a Europe-wide ICP and account-data layer that drove 70% of net-new pipeline over the past year; saved ~1 hour/day per SDR through agentic prospecting automations",
+      "Built the GTM function from zero as first hire, enabling 3x YoY growth from $50K to $1.5M+ ARR and 35 enterprise customers including SAP, Siemens, DHL, and Danaher (F500)",
+      "Operated as an execution partner to the founding team, working for the co-founder/CRO and closely with the CEO and CTO owning GTM engineering, RevOps, the SDR team and outbound motion",
+      "Ran full-cycle enterprise sales at ~$65K ACV from prospecting and qualification through negotiation and close, engaging C- and VP-level stakeholders across 6-month, multi-stakeholder decision cycles with decision materials, executive presentations, and workshops",
+      "Drove 70% of net-new revenue by building a Europe-wide AI account-scoring engine as a data layer integrated with HubSpot, and saved ~1 hour/day per SDR with custom Claude-powered prospecting automations",
     ),
   ),
   (
