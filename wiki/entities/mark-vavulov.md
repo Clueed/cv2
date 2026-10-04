@@ -21,7 +21,7 @@ updated: 2026-07-12T00:00:00Z
 
 # Mark Vavulov
 
-Berlin-based GTM operator and engineer. First non-founder hire at [[entities/stackgini|Stackgini]] (Nov 2023–present), where he built the entire go-to-market function from zero and grew ARR from ~$20K to $1.25M.
+Berlin-based GTM operator and engineer. First non-founder hire at [[entities/stackgini|Stackgini]] (Nov 2023–present), where he built the entire go-to-market function from zero and grew ARR from ~$20K to $1.5M.
 
 Background: International Business B.A. at CBS Cologne (90% GPA, IFRS R&D capitalization thesis). Pivoted to computer science after a semester abroad in Singapore. Enrolled in TU Berlin CS B.Sc. (Oct 2023), paused to join Stackgini full-time; studies on hold, not terminated. Also active in TU Berlin's Center of Entrepreneurship. See [[references/mark-education]] for the full academic history.
 

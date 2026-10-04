@@ -9,7 +9,7 @@ relationships:
 sources:
   - resume-context.md
   - ~/.claude/projects/-home-dev-cv2/memory/feedback_stackgini_buying_centers.md
-summary: B2B SaaS for agentic enterprise IT decision-making. Berlin-based, ~10 FTEs, pre-seed raised 2024, currently raising seed, $1.25M ARR.
+summary: B2B SaaS for agentic enterprise IT decision-making. Berlin-based, ~10 FTEs, pre-seed raised 2024, currently raising seed, $1.5M ARR.
 provenance:
   extracted: 0.90
   inferred: 0.10
@@ -30,7 +30,7 @@ B2B SaaS for **agentic enterprise IT decision-making** — i.e., the product hel
 
 - ~10 full-time employees, started bootstrapped in a co-working space
 - **VC-backed.** Pre-seed raised 2024; seed round closed with international investors (closed by 2026-05). ^[inferred — Mark stated the seed "just closed" in the 2026-05-31 conversation]
-- ARR: $1.25M (per Mark 2026-07-04); was ~$20K with 1 customer when Mark joined Nov 2023 (per Mark 2026-06-09; earlier wiki estimate of $50K was wrong)
+- ARR: $1.5M (per Mark 2026-10-04; was $1.25M per Mark 2026-07-04); was ~$20K with 1 customer when Mark joined Nov 2023 (per Mark 2026-06-09; earlier wiki estimate of $50K was wrong)
 - 35 total customers today (per Mark 2026-06-09); 25 enterprise accounts closed personally by Mark at 30% win rate, $50K ACV, ~6-month average sales cycle
 - Geography: primarily DACH, significant European presence, first US customer (Danaher) closed in 2025 via SAP LeanIX partnership
 
