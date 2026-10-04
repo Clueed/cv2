@@ -1,0 +1,27 @@
+// Zed tasks for previewing PDFs (see tools/zed-pdf/README.md).
+// Run with `task: spawn`, then open .pdf-preview/<name>/<name>.md and
+// `markdown: open preview to the side`.
+[
+  {
+    "label": "PDF: watch resume",
+    "command": "make -C resume preview && tools/zed-pdf/pdf-preview --watch resume/dist/main.pdf",
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "allow_concurrent_runs": false,
+    "reveal": "no_focus"
+  },
+  {
+    "label": "PDF: watch cover letter",
+    "command": "make -C cover-letter preview && tools/zed-pdf/pdf-preview --watch cover-letter/dist/main.pdf",
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "allow_concurrent_runs": false,
+    "reveal": "no_focus"
+  },
+  {
+    // Active file is a .pdf, or a .typ whose PDF sits in ./dist/<stem>.pdf.
+    "label": "PDF: watch current file",
+    "command": "f=\"$ZED_FILE\"; case \"$f\" in *.pdf) ;; *) f=\"$ZED_DIRNAME/dist/$ZED_STEM.pdf\" ;; esac; tools/zed-pdf/pdf-preview --watch \"$f\"",
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "allow_concurrent_runs": false,
+    "reveal": "no_focus"
+  }
+]

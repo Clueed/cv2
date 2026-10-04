@@ -7,6 +7,7 @@
     tinymist
     gnumake
     uv
+    poppler-utils # pdftoppm, for tools/zed-pdf
   ];
 
   fonts.packages = [

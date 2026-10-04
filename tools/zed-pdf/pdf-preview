@@ -1,0 +1,83 @@
+#!/usr/bin/env bash
+# Render a PDF to PNG pages plus a Markdown index, so Zed can show it in its
+# Markdown preview (Zed's extension API has no hook for custom file viewers).
+#
+# usage: pdf-preview [--watch] [--dpi N] <file.pdf>
+#
+# Output: .pdf-preview/<name>/<name>.md at the repo root (gitignored).
+# Open that .md in Zed and run `markdown: open preview to the side`.
+# With --watch, pages re-render whenever the PDF changes; the preview follows.
+set -euo pipefail
+
+watch=0
+dpi=110
+while [ $# -gt 0 ]; do
+  case "$1" in
+    --watch) watch=1; shift ;;
+    --dpi) dpi="$2"; shift 2 ;;
+    -h|--help) sed -n '2,9p' "$0" | sed 's/^# \{0,1\}//'; exit 0 ;;
+    *) break ;;
+  esac
+done
+
+pdf="${1:?usage: pdf-preview [--watch] [--dpi N] <file.pdf>}"
+case "$pdf" in
+  *.pdf) ;;
+  *) echo "not a PDF: $pdf" >&2; exit 1 ;;
+esac
+[ -f "$pdf" ] || { echo "no such file: $pdf" >&2; exit 1; }
+pdf="$(realpath "$pdf")"
+
+if command -v pdftoppm >/dev/null; then
+  pdftoppm=(pdftoppm)
+else
+  pdftoppm=(nix shell nixpkgs#poppler-utils -c pdftoppm)
+fi
+
+root="$(git -C "$(dirname "$pdf")" rev-parse --show-toplevel 2>/dev/null || dirname "$pdf")"
+rel="$(realpath --relative-to="$root" "$pdf")"
+# resume/dist/main.pdf -> resume-dist-main
+name="$(printf '%s' "${rel%.pdf}" | tr '/ ' '--')"
+out="$root/.pdf-preview/$name"
+md="$out/$name.md"
+mkdir -p "$out"
+
+render() {
+  # Name pages by content hash: the .md changes on every rebuild, which makes
+  # Zed reload the buffer and drop its cached images.
+  local hash tmp
+  hash="$(sha256sum "$pdf" | cut -c1-8)"
+  tmp="$(mktemp -d "$out/.tmp.XXXXXX")"
+  "${pdftoppm[@]}" -png -r "$dpi" "$pdf" "$tmp/$hash" || { rm -rf "$tmp"; return 1; }
+
+  find "$out" -maxdepth 1 -name '*.png' -delete
+  mv "$tmp"/*.png "$out"/
+  rmdir "$tmp"
+
+  {
+    printf '# %s\n\n' "$rel"
+    local n=0 f
+    for f in $(ls "$out"/*.png | sort -V); do
+      n=$((n + 1))
+      printf '![page %d](%s)\n\n' "$n" "$(basename "$f")"
+    done
+  } >"$md.tmp"
+  mv "$md.tmp" "$md"
+  echo "$(date +%T) rendered $rel -> ${md#"$root"/}"
+}
+
+render
+
+if [ "$watch" -eq 1 ]; then
+  echo "watching $rel (ctrl-c to stop)"
+  last="$(stat -c %Y "$pdf")"
+  while sleep 1; do
+    [ -f "$pdf" ] || continue
+    now="$(stat -c %Y "$pdf")"
+    if [ "$now" != "$last" ]; then
+      last="$now"
+      sleep 0.3 # let the writer finish
+      render || echo "render failed; will retry on next change" >&2
+    fi
+  done
+fi

@@ -3,3 +3,4 @@ opencode.json
 /cover-letter/dist
 .claude/settings.local.json
 .env
+/.pdf-preview
