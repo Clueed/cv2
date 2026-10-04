@@ -173,6 +173,7 @@ Differentiator vs typical CoS applicants (consulting / strategy / scale-up gener
 - [[entities/stackgini]] — current employer; intra-IT buying-center coordination is the closest internal analogue to the CoS connector role
 - [[synthesis/mark-progression-over-direction]] — decision filter under which this seat scores ~15-20% commercial
 - [[synthesis/mark-job-direction-map]] — first verified JD for the Tier 1.5 "Founders Associate / Chief of Staff" role-pattern
+- [[references/biolyz-founders-associate-jd]] · [[references/all-but-sugar-founders-associate-jd]] — the second and third verified Founder's-Associate JDs (strategy-analyst and full-stack-operator variants of this same pattern)
 - [[skills/ai-powered-sales-tooling]] — concrete evidence for the systems-building pillar
 - [[references/first-momentum-visiting-associate-2027-jd]] — comparison: other off-commercial launchpad seat tracked
 - [[references/allocator-one-investment-manager-vienna-jd]] — comparison: other Vienna off-engineer-seller seat

@@ -1,4 +1,10 @@
-.PHONY: preview
+.PHONY: preview watch
+
+watch:
+	mkdir -p dist
+	typst watch --root . main.typ dist/main.pdf & \
+	typst watch --root . main.typ "dist/page-{0p}.png" --ppi 300 & \
+	wait
 
 preview:
 	mkdir -p dist
