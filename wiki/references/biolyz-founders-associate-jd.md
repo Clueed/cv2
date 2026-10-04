@@ -168,6 +168,7 @@ Differentiator vs typical Founder's-Associate applicants (ex-IB / ex-consulting 
 - [[entities/mark-vavulov]] — candidate profile; business-acumen + fundraising-support + founding-operator reps are directly relevant
 - [[entities/stackgini]] — current employer; the "high-growth startup" bucket the experience bar names
 - [[references/enpulsion-ceo-associate-vienna-jd]] — first verified Founders-Associate/CoS JD; closest structural twin
+- [[references/all-but-sugar-founders-associate-jd]] — third verified Founder's-Associate JD (Vienna food-tech); the full-stack-operator variant vs this analyst variant, with a real commercial + finance/ops pillar and the same genuine-interest domain bridge
 - [[references/lago-growth-chief-of-staff-jd]] — builder-shaped Founder's-Office comparison (more commercial, 5+yr floor)
 - [[references/strabag-target-scouting-analyst-vienna-jd]] — other off-commercial, analysis-heavy comparison
 - [[synthesis/mark-progression-over-direction]] — decision filter under which this seat scores ~10-15% commercial
